@@ -1,0 +1,1081 @@
+table,row,field,issue,severity
+balancesheet,-,"company_id,year",Duplicate key ABB 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ADANIENSOL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ADANIENT 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ADANIGREEN 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ADANIPORTS 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ADANIPOWER 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key AMBUJACEM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key AMBUJACEM 2020-12,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key APOLLOHOSP 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ASIANPAINT 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ASIANPAINT 2020-09,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ATGL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key AXISBANK 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BAJAJ-AUTO 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BAJAJFINSV 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BAJAJHLDNG 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BAJFINANCE 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BANKBARODA 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BEL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BHARTIARTL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BHEL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BOSCHLTD 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BOSCHLTD 2020-12,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BPCL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key BRITANNIA 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key CANBK 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key CHOLAFIN 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key CIPLA 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key COALINDIA 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key DABUR 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key DIVISLAB 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key DLF 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key DMART 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key DRREDDY 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key EICHERMOT 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key EICHERMOT 2020-12,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key GAIL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key GODREJCP 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key GRASIM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HAL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HAVELLS 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HCLTECH 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HCLTECH 2020-06,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HDFCBANK 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HDFCLIFE 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HEROMOTOCO 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HINDALCO 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key HINDUNILVR 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ICICIBANK 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ICICIGI 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ICICIPRULI 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key INDIGO 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key INDUSINDBK 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key INFY 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key IOC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key IRCTC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key IRFC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ITC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key JINDALSTEL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key JIOFIN 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key JSWENERGY 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key JSWSTEEL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key KOTAKBANK 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key LICI 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key LODHA 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key LT 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key LTIM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key M&M 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key MARUTI 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key MOTHERSON 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key NAUKRI 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key NESTLEIND 2020-12,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key NHPC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key NTPC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ONGC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key PFC 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key PIDILITIND 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key PNB 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key POWERGRID 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key POWERGRID 2020-09,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key RECLTD 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key RELIANCE 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key SBILIFE 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key SHREECEM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key SHREECEM 2020-06,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key SHRIRAMFIN 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key SIEMENS 2020-09,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key SUNPHARMA 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TATACONSUM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TATAMOTORS 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TATAPOWER 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TATASTEEL 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TCS 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TECHM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TECHM 2020-09,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TITAN 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TORNTPHARM 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TRENT 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key TVSMOTOR 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key ULTRACEMCO 2020-03,CRITICAL
+balancesheet,-,"company_id,year",Duplicate key UNIONBANK 2020-03,CRITICAL
+balancesheet,1045,year,Invalid year format,WARNING
+balancesheet,1066,year,Invalid year format,WARNING
+balancesheet,1079,year,Invalid year format,WARNING
+balancesheet,1092,year,Invalid year format,WARNING
+balancesheet,1130,year,Invalid year format,WARNING
+cashflow,-,"company_id,year",Duplicate key ABB 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ADANIENSOL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ADANIENT 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ADANIGREEN 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ADANIPORTS 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ADANIPOWER 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key AGTL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key AMBUJACEM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key AMBUJACEM 2020-12,CRITICAL
+cashflow,-,"company_id,year",Duplicate key APOLLOHOSP 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ASIANPAINT 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key AXISBANK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BAJAJ-AUTO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BAJAJFINSV 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BAJAJHLDNG 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BAJFINANCE 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BANKBARODA 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BEL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BHARTIARTL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BHEL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BOSCHLTD 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BOSCHLTD 2020-12,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BPCL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key BRITANNIA 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key CANBK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key CHOLAFIN 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key CIPLA 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key COALINDIA 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key DABUR 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key DIVISLAB 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key DLF 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key DMART 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key DRREDDY 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key EICHERMOT 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key EICHERMOT 2020-12,CRITICAL
+cashflow,-,"company_id,year",Duplicate key GAIL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key GODREJCP 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key GRASIM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HAL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HAVELLS 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HCLTECH 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HCLTECH 2020-06,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HDFCBANK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HDFCLIFE 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HEROMOTOCO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HINDALCO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key HINDUNILVR 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ICICIBANK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ICICIGI 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ICICIPRULI 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key INDIGO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key INDUSINDBK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key INFY 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key IOC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key IRCTC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key IRFC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ITC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key JINDALSTEL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key JIOFIN 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key JSWENERGY 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key JSWSTEEL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key KOTAKBANK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key LICI 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key LODHA 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key LT 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key LTIM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key M&M 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key MARUTI 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key MOTHERSON 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key NAUKRI 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key NESTLEIND 2020-12,CRITICAL
+cashflow,-,"company_id,year",Duplicate key NHPC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key NTPC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ONGC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key PFC 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key PIDILITIND 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key PNB 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key POWERGRID 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key RECLTD 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key RELIANCE 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SBILIFE 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SBIN 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SHREECEM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SHREECEM 2020-06,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SHRIRAMFIN 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SIEMENS 2020-09,CRITICAL
+cashflow,-,"company_id,year",Duplicate key SUNPHARMA 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TATACONSUM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TATAMOTORS 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TATAPOWER 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TATASTEEL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TCS 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TECHM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TITAN 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TORNTPHARM 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TRENT 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key TVSMOTOR 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ULTRACEMCO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key UNIONBANK 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key UNITDSPR 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key VBL 2020-12,CRITICAL
+cashflow,-,"company_id,year",Duplicate key VEDL 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key WIPRO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ZOMATO 2020-03,CRITICAL
+cashflow,-,"company_id,year",Duplicate key ZYDUSLIFE 2020-03,CRITICAL
+cashflow,1095,net_cash_flow,Cashflow mismatch,CRITICAL
+documents,25,annual_report,Invalid URL,WARNING
+documents,26,annual_report,Invalid URL,WARNING
+documents,27,annual_report,Invalid URL,WARNING
+documents,28,annual_report,Invalid URL,WARNING
+documents,29,annual_report,Invalid URL,WARNING
+documents,30,annual_report,Invalid URL,WARNING
+documents,31,annual_report,Invalid URL,WARNING
+documents,55,annual_report,Invalid URL,WARNING
+documents,56,annual_report,Invalid URL,WARNING
+documents,57,annual_report,Invalid URL,WARNING
+documents,58,annual_report,Invalid URL,WARNING
+documents,59,annual_report,Invalid URL,WARNING
+documents,60,annual_report,Invalid URL,WARNING
+documents,61,annual_report,Invalid URL,WARNING
+documents,62,annual_report,Invalid URL,WARNING
+documents,63,annual_report,Invalid URL,WARNING
+documents,69,annual_report,Invalid URL,WARNING
+documents,70,annual_report,Invalid URL,WARNING
+documents,71,annual_report,Invalid URL,WARNING
+documents,73,annual_report,Invalid URL,WARNING
+documents,74,annual_report,Invalid URL,WARNING
+documents,75,annual_report,Invalid URL,WARNING
+documents,76,annual_report,Invalid URL,WARNING
+documents,78,annual_report,Invalid URL,WARNING
+documents,79,annual_report,Invalid URL,WARNING
+documents,89,annual_report,Invalid URL,WARNING
+documents,90,annual_report,Invalid URL,WARNING
+documents,91,annual_report,Invalid URL,WARNING
+documents,93,annual_report,Invalid URL,WARNING
+documents,94,annual_report,Invalid URL,WARNING
+documents,95,annual_report,Invalid URL,WARNING
+documents,106,annual_report,Invalid URL,WARNING
+documents,107,annual_report,Invalid URL,WARNING
+documents,108,annual_report,Invalid URL,WARNING
+documents,110,annual_report,Invalid URL,WARNING
+documents,111,annual_report,Invalid URL,WARNING
+documents,117,annual_report,Invalid URL,WARNING
+documents,121,annual_report,Invalid URL,WARNING
+documents,126,annual_report,Invalid URL,WARNING
+documents,127,annual_report,Invalid URL,WARNING
+documents,139,annual_report,Invalid URL,WARNING
+documents,140,annual_report,Invalid URL,WARNING
+documents,142,annual_report,Invalid URL,WARNING
+documents,143,annual_report,Invalid URL,WARNING
+documents,150,annual_report,Invalid URL,WARNING
+documents,151,annual_report,Invalid URL,WARNING
+documents,152,annual_report,Invalid URL,WARNING
+documents,153,annual_report,Invalid URL,WARNING
+documents,154,annual_report,Invalid URL,WARNING
+documents,155,annual_report,Invalid URL,WARNING
+documents,156,annual_report,Invalid URL,WARNING
+documents,157,annual_report,Invalid URL,WARNING
+documents,158,annual_report,Invalid URL,WARNING
+documents,159,annual_report,Invalid URL,WARNING
+documents,174,annual_report,Invalid URL,WARNING
+documents,175,annual_report,Invalid URL,WARNING
+documents,186,annual_report,Invalid URL,WARNING
+documents,190,annual_report,Invalid URL,WARNING
+documents,191,annual_report,Invalid URL,WARNING
+documents,206,annual_report,Invalid URL,WARNING
+documents,207,annual_report,Invalid URL,WARNING
+documents,222,annual_report,Invalid URL,WARNING
+documents,223,annual_report,Invalid URL,WARNING
+documents,238,annual_report,Invalid URL,WARNING
+documents,239,annual_report,Invalid URL,WARNING
+documents,350,annual_report,Invalid URL,WARNING
+documents,351,annual_report,Invalid URL,WARNING
+documents,366,annual_report,Invalid URL,WARNING
+documents,367,annual_report,Invalid URL,WARNING
+documents,377,annual_report,Invalid URL,WARNING
+documents,382,annual_report,Invalid URL,WARNING
+documents,383,annual_report,Invalid URL,WARNING
+documents,398,annual_report,Invalid URL,WARNING
+documents,399,annual_report,Invalid URL,WARNING
+documents,414,annual_report,Invalid URL,WARNING
+documents,430,annual_report,Invalid URL,WARNING
+documents,431,annual_report,Invalid URL,WARNING
+documents,446,annual_report,Invalid URL,WARNING
+documents,447,annual_report,Invalid URL,WARNING
+documents,456,annual_report,Invalid URL,WARNING
+documents,457,annual_report,Invalid URL,WARNING
+documents,458,annual_report,Invalid URL,WARNING
+documents,459,annual_report,Invalid URL,WARNING
+documents,460,annual_report,Invalid URL,WARNING
+documents,461,annual_report,Invalid URL,WARNING
+documents,462,annual_report,Invalid URL,WARNING
+documents,463,annual_report,Invalid URL,WARNING
+documents,477,annual_report,Invalid URL,WARNING
+documents,478,annual_report,Invalid URL,WARNING
+documents,479,annual_report,Invalid URL,WARNING
+documents,494,annual_report,Invalid URL,WARNING
+documents,495,annual_report,Invalid URL,WARNING
+documents,510,annual_report,Invalid URL,WARNING
+documents,511,annual_report,Invalid URL,WARNING
+documents,526,annual_report,Invalid URL,WARNING
+documents,527,annual_report,Invalid URL,WARNING
+documents,542,annual_report,Invalid URL,WARNING
+documents,543,annual_report,Invalid URL,WARNING
+documents,560,annual_report,Invalid URL,WARNING
+documents,573,annual_report,Invalid URL,WARNING
+documents,574,annual_report,Invalid URL,WARNING
+documents,588,annual_report,Invalid URL,WARNING
+documents,589,annual_report,Invalid URL,WARNING
+documents,590,annual_report,Invalid URL,WARNING
+documents,602,annual_report,Invalid URL,WARNING
+documents,604,annual_report,Invalid URL,WARNING
+documents,605,annual_report,Invalid URL,WARNING
+documents,606,annual_report,Invalid URL,WARNING
+documents,619,annual_report,Invalid URL,WARNING
+documents,620,annual_report,Invalid URL,WARNING
+documents,621,annual_report,Invalid URL,WARNING
+documents,622,annual_report,Invalid URL,WARNING
+documents,623,annual_report,Invalid URL,WARNING
+documents,639,annual_report,Invalid URL,WARNING
+documents,640,annual_report,Invalid URL,WARNING
+documents,655,annual_report,Invalid URL,WARNING
+documents,656,annual_report,Invalid URL,WARNING
+documents,671,annual_report,Invalid URL,WARNING
+documents,672,annual_report,Invalid URL,WARNING
+documents,688,annual_report,Invalid URL,WARNING
+documents,704,annual_report,Invalid URL,WARNING
+documents,718,annual_report,Invalid URL,WARNING
+documents,719,annual_report,Invalid URL,WARNING
+documents,720,annual_report,Invalid URL,WARNING
+documents,730,annual_report,Invalid URL,WARNING
+documents,731,annual_report,Invalid URL,WARNING
+documents,732,annual_report,Invalid URL,WARNING
+documents,733,annual_report,Invalid URL,WARNING
+documents,734,annual_report,Invalid URL,WARNING
+documents,735,annual_report,Invalid URL,WARNING
+documents,736,annual_report,Invalid URL,WARNING
+documents,751,annual_report,Invalid URL,WARNING
+documents,752,annual_report,Invalid URL,WARNING
+documents,767,annual_report,Invalid URL,WARNING
+documents,768,annual_report,Invalid URL,WARNING
+documents,769,annual_report,Invalid URL,WARNING
+documents,770,annual_report,Invalid URL,WARNING
+documents,783,annual_report,Invalid URL,WARNING
+documents,784,annual_report,Invalid URL,WARNING
+documents,790,annual_report,Invalid URL,WARNING
+documents,791,annual_report,Invalid URL,WARNING
+documents,792,annual_report,Invalid URL,WARNING
+documents,793,annual_report,Invalid URL,WARNING
+documents,794,annual_report,Invalid URL,WARNING
+documents,795,annual_report,Invalid URL,WARNING
+documents,796,annual_report,Invalid URL,WARNING
+documents,797,annual_report,Invalid URL,WARNING
+documents,798,annual_report,Invalid URL,WARNING
+documents,799,annual_report,Invalid URL,WARNING
+documents,800,annual_report,Invalid URL,WARNING
+documents,805,annual_report,Invalid URL,WARNING
+documents,806,annual_report,Invalid URL,WARNING
+documents,807,annual_report,Invalid URL,WARNING
+documents,808,annual_report,Invalid URL,WARNING
+documents,809,annual_report,Invalid URL,WARNING
+documents,810,annual_report,Invalid URL,WARNING
+documents,811,annual_report,Invalid URL,WARNING
+documents,812,annual_report,Invalid URL,WARNING
+documents,813,annual_report,Invalid URL,WARNING
+documents,814,annual_report,Invalid URL,WARNING
+documents,815,annual_report,Invalid URL,WARNING
+documents,816,annual_report,Invalid URL,WARNING
+documents,850,annual_report,Invalid URL,WARNING
+documents,851,annual_report,Invalid URL,WARNING
+documents,852,annual_report,Invalid URL,WARNING
+documents,853,annual_report,Invalid URL,WARNING
+documents,854,annual_report,Invalid URL,WARNING
+documents,855,annual_report,Invalid URL,WARNING
+documents,856,annual_report,Invalid URL,WARNING
+documents,857,annual_report,Invalid URL,WARNING
+documents,858,annual_report,Invalid URL,WARNING
+documents,859,annual_report,Invalid URL,WARNING
+documents,860,annual_report,Invalid URL,WARNING
+documents,861,annual_report,Invalid URL,WARNING
+documents,862,annual_report,Invalid URL,WARNING
+documents,863,annual_report,Invalid URL,WARNING
+documents,864,annual_report,Invalid URL,WARNING
+documents,878,annual_report,Invalid URL,WARNING
+documents,879,annual_report,Invalid URL,WARNING
+documents,880,annual_report,Invalid URL,WARNING
+documents,895,annual_report,Invalid URL,WARNING
+documents,896,annual_report,Invalid URL,WARNING
+documents,898,annual_report,Invalid URL,WARNING
+documents,899,annual_report,Invalid URL,WARNING
+documents,900,annual_report,Invalid URL,WARNING
+documents,904,annual_report,Invalid URL,WARNING
+documents,905,annual_report,Invalid URL,WARNING
+documents,906,annual_report,Invalid URL,WARNING
+documents,908,annual_report,Invalid URL,WARNING
+documents,909,annual_report,Invalid URL,WARNING
+documents,910,annual_report,Invalid URL,WARNING
+documents,911,annual_report,Invalid URL,WARNING
+documents,912,annual_report,Invalid URL,WARNING
+documents,919,annual_report,Invalid URL,WARNING
+documents,920,annual_report,Invalid URL,WARNING
+documents,921,annual_report,Invalid URL,WARNING
+documents,922,annual_report,Invalid URL,WARNING
+documents,923,annual_report,Invalid URL,WARNING
+documents,924,annual_report,Invalid URL,WARNING
+documents,925,annual_report,Invalid URL,WARNING
+documents,926,annual_report,Invalid URL,WARNING
+documents,927,annual_report,Invalid URL,WARNING
+documents,928,annual_report,Invalid URL,WARNING
+documents,933,annual_report,Invalid URL,WARNING
+documents,934,annual_report,Invalid URL,WARNING
+documents,935,annual_report,Invalid URL,WARNING
+documents,936,annual_report,Invalid URL,WARNING
+documents,937,annual_report,Invalid URL,WARNING
+documents,938,annual_report,Invalid URL,WARNING
+documents,939,annual_report,Invalid URL,WARNING
+documents,940,annual_report,Invalid URL,WARNING
+documents,941,annual_report,Invalid URL,WARNING
+documents,942,annual_report,Invalid URL,WARNING
+documents,943,annual_report,Invalid URL,WARNING
+documents,944,annual_report,Invalid URL,WARNING
+documents,959,annual_report,Invalid URL,WARNING
+documents,960,annual_report,Invalid URL,WARNING
+documents,969,annual_report,Invalid URL,WARNING
+documents,970,annual_report,Invalid URL,WARNING
+documents,971,annual_report,Invalid URL,WARNING
+documents,972,annual_report,Invalid URL,WARNING
+documents,973,annual_report,Invalid URL,WARNING
+documents,974,annual_report,Invalid URL,WARNING
+documents,975,annual_report,Invalid URL,WARNING
+documents,976,annual_report,Invalid URL,WARNING
+documents,991,annual_report,Invalid URL,WARNING
+documents,992,annual_report,Invalid URL,WARNING
+documents,1007,annual_report,Invalid URL,WARNING
+documents,1008,annual_report,Invalid URL,WARNING
+documents,1023,annual_report,Invalid URL,WARNING
+documents,1024,annual_report,Invalid URL,WARNING
+documents,1039,annual_report,Invalid URL,WARNING
+documents,1040,annual_report,Invalid URL,WARNING
+documents,1071,annual_report,Invalid URL,WARNING
+documents,1072,annual_report,Invalid URL,WARNING
+documents,1087,annual_report,Invalid URL,WARNING
+documents,1088,annual_report,Invalid URL,WARNING
+documents,1102,annual_report,Invalid URL,WARNING
+documents,1103,annual_report,Invalid URL,WARNING
+documents,1104,annual_report,Invalid URL,WARNING
+documents,1119,annual_report,Invalid URL,WARNING
+documents,1120,annual_report,Invalid URL,WARNING
+documents,1134,annual_report,Invalid URL,WARNING
+documents,1135,annual_report,Invalid URL,WARNING
+documents,1136,annual_report,Invalid URL,WARNING
+documents,1151,annual_report,Invalid URL,WARNING
+documents,1152,annual_report,Invalid URL,WARNING
+documents,1167,annual_report,Invalid URL,WARNING
+documents,1168,annual_report,Invalid URL,WARNING
+documents,1182,annual_report,Invalid URL,WARNING
+documents,1183,annual_report,Invalid URL,WARNING
+documents,1184,annual_report,Invalid URL,WARNING
+documents,1198,annual_report,Invalid URL,WARNING
+documents,1199,annual_report,Invalid URL,WARNING
+documents,1200,annual_report,Invalid URL,WARNING
+documents,1208,annual_report,Invalid URL,WARNING
+documents,1209,annual_report,Invalid URL,WARNING
+documents,1210,annual_report,Invalid URL,WARNING
+documents,1211,annual_report,Invalid URL,WARNING
+documents,1212,annual_report,Invalid URL,WARNING
+documents,1213,annual_report,Invalid URL,WARNING
+documents,1214,annual_report,Invalid URL,WARNING
+documents,1215,annual_report,Invalid URL,WARNING
+documents,1216,annual_report,Invalid URL,WARNING
+documents,1232,annual_report,Invalid URL,WARNING
+documents,1246,annual_report,Invalid URL,WARNING
+documents,1247,annual_report,Invalid URL,WARNING
+documents,1248,annual_report,Invalid URL,WARNING
+documents,1262,annual_report,Invalid URL,WARNING
+documents,1263,annual_report,Invalid URL,WARNING
+documents,1264,annual_report,Invalid URL,WARNING
+documents,1279,annual_report,Invalid URL,WARNING
+documents,1280,annual_report,Invalid URL,WARNING
+documents,1311,annual_report,Invalid URL,WARNING
+documents,1312,annual_report,Invalid URL,WARNING
+documents,1327,annual_report,Invalid URL,WARNING
+documents,1328,annual_report,Invalid URL,WARNING
+documents,1343,annual_report,Invalid URL,WARNING
+documents,1344,annual_report,Invalid URL,WARNING
+documents,1359,annual_report,Invalid URL,WARNING
+documents,1360,annual_report,Invalid URL,WARNING
+documents,1375,annual_report,Invalid URL,WARNING
+documents,1376,annual_report,Invalid URL,WARNING
+documents,1389,annual_report,Invalid URL,WARNING
+documents,1390,annual_report,Invalid URL,WARNING
+documents,1391,annual_report,Invalid URL,WARNING
+documents,1392,annual_report,Invalid URL,WARNING
+documents,1406,annual_report,Invalid URL,WARNING
+documents,1407,annual_report,Invalid URL,WARNING
+documents,1408,annual_report,Invalid URL,WARNING
+documents,1423,annual_report,Invalid URL,WARNING
+documents,1424,annual_report,Invalid URL,WARNING
+documents,1439,annual_report,Invalid URL,WARNING
+documents,1440,annual_report,Invalid URL,WARNING
+documents,1455,annual_report,Invalid URL,WARNING
+documents,1456,annual_report,Invalid URL,WARNING
+documents,1470,annual_report,Invalid URL,WARNING
+documents,1471,annual_report,Invalid URL,WARNING
+documents,1472,annual_report,Invalid URL,WARNING
+documents,1487,annual_report,Invalid URL,WARNING
+documents,1488,annual_report,Invalid URL,WARNING
+documents,1502,annual_report,Invalid URL,WARNING
+documents,1503,annual_report,Invalid URL,WARNING
+documents,1504,annual_report,Invalid URL,WARNING
+documents,1505,annual_report,Invalid URL,WARNING
+documents,1514,annual_report,Invalid URL,WARNING
+documents,1515,annual_report,Invalid URL,WARNING
+documents,1516,annual_report,Invalid URL,WARNING
+documents,1517,annual_report,Invalid URL,WARNING
+documents,1518,annual_report,Invalid URL,WARNING
+documents,1519,annual_report,Invalid URL,WARNING
+documents,1520,annual_report,Invalid URL,WARNING
+documents,1535,annual_report,Invalid URL,WARNING
+documents,1536,annual_report,Invalid URL,WARNING
+documents,1551,annual_report,Invalid URL,WARNING
+documents,1552,annual_report,Invalid URL,WARNING
+documents,1556,annual_report,Invalid URL,WARNING
+documents,1557,annual_report,Invalid URL,WARNING
+documents,1558,annual_report,Invalid URL,WARNING
+documents,1559,annual_report,Invalid URL,WARNING
+documents,1560,annual_report,Invalid URL,WARNING
+documents,1561,annual_report,Invalid URL,WARNING
+documents,1562,annual_report,Invalid URL,WARNING
+documents,1563,annual_report,Invalid URL,WARNING
+documents,1564,annual_report,Invalid URL,WARNING
+documents,1565,annual_report,Invalid URL,WARNING
+documents,1566,annual_report,Invalid URL,WARNING
+documents,1567,annual_report,Invalid URL,WARNING
+documents,1568,annual_report,Invalid URL,WARNING
+documents,1583,annual_report,Invalid URL,WARNING
+documents,1584,annual_report,Invalid URL,WARNING
+financial_ratios,-,"company_id,year",Duplicate key ABB 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ADANIENSOL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ADANIENT 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ADANIGREEN 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ADANIPORTS 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ADANIPOWER 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key AMBUJACEM 2020-12,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key APOLLOHOSP 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ASIANPAINT 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key AXISBANK 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BAJAJ-AUTO 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BAJAJFINSV 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BAJAJHLDNG 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BAJFINANCE 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BANKBARODA 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BEL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BHARTIARTL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BHEL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BOSCHLTD 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BOSCHLTD 2020-12,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BPCL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key BRITANNIA 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key CANBK 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key CHOLAFIN 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key CIPLA 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key COALINDIA 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key DABUR 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key DIVISLAB 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key DLF 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key DMART 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key DRREDDY 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key EICHERMOT 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key EICHERMOT 2020-12,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key GAIL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key GODREJCP 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key GRASIM 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HAL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HAVELLS 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HCLTECH 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HCLTECH 2020-06,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HDFCBANK 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HDFCLIFE 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HEROMOTOCO 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HINDALCO 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key HINDUNILVR 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ICICIBANK 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ICICIGI 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ICICIPRULI 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key INDIGO 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key INDUSINDBK 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key INFY 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key IOC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key IRCTC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key IRFC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ITC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key JINDALSTEL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key JIOFIN 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key JSWENERGY 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key JSWSTEEL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key KOTAKBANK 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key LICI 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key LODHA 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key LT 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key LTIM 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key M&M 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key MARUTI 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key MOTHERSON 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key NAUKRI 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key NESTLEIND 2020-12,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key NHPC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key NTPC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ONGC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key PFC 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key PIDILITIND 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key PNB 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key POWERGRID 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key RECLTD 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key RELIANCE 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key SBILIFE 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key SHREECEM 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key SHREECEM 2020-06,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key SHRIRAMFIN 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key SIEMENS 2020-09,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key SUNPHARMA 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TATACONSUM 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TATAMOTORS 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TATAPOWER 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TATASTEEL 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TCS 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TECHM 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TITAN 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TORNTPHARM 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TRENT 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key TVSMOTOR 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key ULTRACEMCO 2020-03,CRITICAL
+financial_ratios,-,"company_id,year",Duplicate key UNIONBANK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ABB 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ADANIENSOL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ADANIENT 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ADANIGREEN 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ADANIPORTS 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ADANIPORTS TTM,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ADANIPOWER 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key AMBUJACEM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key AMBUJACEM 2020-12,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key APOLLOHOSP 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ASIANPAINT 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ATGL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key AXISBANK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BAJAJ-AUTO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BAJAJFINSV 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BAJAJHLDNG 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BAJFINANCE 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BANKBARODA 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BEL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BHARTIARTL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BHEL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BOSCHLTD 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BOSCHLTD 2020-12,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BPCL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key BRITANNIA 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key CANBK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key CHOLAFIN 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key CIPLA 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key COALINDIA 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key DABUR 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key DIVISLAB 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key DLF 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key DMART 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key DRREDDY 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key EICHERMOT 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key EICHERMOT 2020-12,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key GAIL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key GODREJCP 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key GRASIM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HAL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HAVELLS 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HCLTECH 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HCLTECH 2020-06,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HDFCBANK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HDFCLIFE 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HEROMOTOCO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HINDALCO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key HINDUNILVR 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ICICIBANK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ICICIGI 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ICICIPRULI 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key INDIGO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key INDUSINDBK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key INFY 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key IOC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key IRCTC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key IRFC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ITC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key JINDALSTEL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key JIOFIN 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key JSWENERGY 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key JSWSTEEL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key KOTAKBANK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key LICI 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key LODHA 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key LT 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key LTIM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key M&M 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key MARUTI 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key MOTHERSON 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key NAUKRI 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key NESTLEIND 2020-12,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key NHPC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key NTPC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ONGC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key PFC 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key PIDILITIND 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key PNB 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key POWERGRID 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key RECLTD 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key RELIANCE 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SBILIFE 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SBIN 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SHREECEM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SHREECEM 2020-06,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SHRIRAMFIN 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SIEMENS 2020-09,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key SUNPHARMA 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TATACONSUM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TATAMOTORS 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TATAPOWER 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TATASTEEL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TCS 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TECHM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TITAN 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TORNTPHARM 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TRENT 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key TVSMOTOR 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ULTRACEMCO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key UNIONBANK 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key UNITDSPR 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key VBL 2020-12,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key VEDL 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key WIPRO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ZOMATO 2020-03,CRITICAL
+profitandloss,-,"company_id,year",Duplicate key ZYDUSLIFE 2020-03,CRITICAL
+profitandloss,13,sales,Sales <= 0,CRITICAL
+profitandloss,23,opm_percentage,OPM mismatch,WARNING
+profitandloss,146,opm_percentage,OPM mismatch,WARNING
+profitandloss,147,opm_percentage,OPM mismatch,WARNING
+profitandloss,148,opm_percentage,OPM mismatch,WARNING
+profitandloss,149,opm_percentage,OPM mismatch,WARNING
+profitandloss,150,opm_percentage,OPM mismatch,WARNING
+profitandloss,151,opm_percentage,OPM mismatch,WARNING
+profitandloss,152,opm_percentage,OPM mismatch,WARNING
+profitandloss,153,opm_percentage,OPM mismatch,WARNING
+profitandloss,154,opm_percentage,OPM mismatch,WARNING
+profitandloss,155,opm_percentage,OPM mismatch,WARNING
+profitandloss,156,opm_percentage,OPM mismatch,WARNING
+profitandloss,157,opm_percentage,OPM mismatch,WARNING
+profitandloss,158,opm_percentage,OPM mismatch,WARNING
+profitandloss,185,opm_percentage,OPM mismatch,WARNING
+profitandloss,186,opm_percentage,OPM mismatch,WARNING
+profitandloss,187,opm_percentage,OPM mismatch,WARNING
+profitandloss,188,opm_percentage,OPM mismatch,WARNING
+profitandloss,189,opm_percentage,OPM mismatch,WARNING
+profitandloss,190,opm_percentage,OPM mismatch,WARNING
+profitandloss,191,opm_percentage,OPM mismatch,WARNING
+profitandloss,192,opm_percentage,OPM mismatch,WARNING
+profitandloss,193,opm_percentage,OPM mismatch,WARNING
+profitandloss,194,opm_percentage,OPM mismatch,WARNING
+profitandloss,195,opm_percentage,OPM mismatch,WARNING
+profitandloss,196,opm_percentage,OPM mismatch,WARNING
+profitandloss,197,opm_percentage,OPM mismatch,WARNING
+profitandloss,198,opm_percentage,OPM mismatch,WARNING
+profitandloss,199,opm_percentage,OPM mismatch,WARNING
+profitandloss,200,opm_percentage,OPM mismatch,WARNING
+profitandloss,201,opm_percentage,OPM mismatch,WARNING
+profitandloss,202,opm_percentage,OPM mismatch,WARNING
+profitandloss,203,opm_percentage,OPM mismatch,WARNING
+profitandloss,204,opm_percentage,OPM mismatch,WARNING
+profitandloss,205,opm_percentage,OPM mismatch,WARNING
+profitandloss,206,opm_percentage,OPM mismatch,WARNING
+profitandloss,207,opm_percentage,OPM mismatch,WARNING
+profitandloss,208,opm_percentage,OPM mismatch,WARNING
+profitandloss,287,opm_percentage,OPM mismatch,WARNING
+profitandloss,288,opm_percentage,OPM mismatch,WARNING
+profitandloss,289,opm_percentage,OPM mismatch,WARNING
+profitandloss,290,opm_percentage,OPM mismatch,WARNING
+profitandloss,291,opm_percentage,OPM mismatch,WARNING
+profitandloss,292,opm_percentage,OPM mismatch,WARNING
+profitandloss,293,opm_percentage,OPM mismatch,WARNING
+profitandloss,294,opm_percentage,OPM mismatch,WARNING
+profitandloss,295,opm_percentage,OPM mismatch,WARNING
+profitandloss,296,opm_percentage,OPM mismatch,WARNING
+profitandloss,297,opm_percentage,OPM mismatch,WARNING
+profitandloss,298,opm_percentage,OPM mismatch,WARNING
+profitandloss,299,opm_percentage,OPM mismatch,WARNING
+profitandloss,300,opm_percentage,OPM mismatch,WARNING
+profitandloss,301,opm_percentage,OPM mismatch,WARNING
+profitandloss,302,opm_percentage,OPM mismatch,WARNING
+profitandloss,303,opm_percentage,OPM mismatch,WARNING
+profitandloss,304,opm_percentage,OPM mismatch,WARNING
+profitandloss,305,opm_percentage,OPM mismatch,WARNING
+profitandloss,306,opm_percentage,OPM mismatch,WARNING
+profitandloss,307,opm_percentage,OPM mismatch,WARNING
+profitandloss,308,opm_percentage,OPM mismatch,WARNING
+profitandloss,309,opm_percentage,OPM mismatch,WARNING
+profitandloss,310,opm_percentage,OPM mismatch,WARNING
+profitandloss,311,opm_percentage,OPM mismatch,WARNING
+profitandloss,312,opm_percentage,OPM mismatch,WARNING
+profitandloss,313,opm_percentage,OPM mismatch,WARNING
+profitandloss,314,opm_percentage,OPM mismatch,WARNING
+profitandloss,315,opm_percentage,OPM mismatch,WARNING
+profitandloss,316,opm_percentage,OPM mismatch,WARNING
+profitandloss,317,opm_percentage,OPM mismatch,WARNING
+profitandloss,318,opm_percentage,OPM mismatch,WARNING
+profitandloss,319,opm_percentage,OPM mismatch,WARNING
+profitandloss,320,opm_percentage,OPM mismatch,WARNING
+profitandloss,321,opm_percentage,OPM mismatch,WARNING
+profitandloss,322,opm_percentage,OPM mismatch,WARNING
+profitandloss,323,opm_percentage,OPM mismatch,WARNING
+profitandloss,324,opm_percentage,OPM mismatch,WARNING
+profitandloss,325,opm_percentage,OPM mismatch,WARNING
+profitandloss,326,opm_percentage,OPM mismatch,WARNING
+profitandloss,327,opm_percentage,OPM mismatch,WARNING
+profitandloss,328,opm_percentage,OPM mismatch,WARNING
+profitandloss,329,opm_percentage,OPM mismatch,WARNING
+profitandloss,330,opm_percentage,OPM mismatch,WARNING
+profitandloss,331,opm_percentage,OPM mismatch,WARNING
+profitandloss,332,opm_percentage,OPM mismatch,WARNING
+profitandloss,333,opm_percentage,OPM mismatch,WARNING
+profitandloss,334,opm_percentage,OPM mismatch,WARNING
+profitandloss,335,opm_percentage,OPM mismatch,WARNING
+profitandloss,336,opm_percentage,OPM mismatch,WARNING
+profitandloss,337,opm_percentage,OPM mismatch,WARNING
+profitandloss,338,opm_percentage,OPM mismatch,WARNING
+profitandloss,495,opm_percentage,OPM mismatch,WARNING
+profitandloss,496,opm_percentage,OPM mismatch,WARNING
+profitandloss,497,opm_percentage,OPM mismatch,WARNING
+profitandloss,498,opm_percentage,OPM mismatch,WARNING
+profitandloss,499,opm_percentage,OPM mismatch,WARNING
+profitandloss,500,opm_percentage,OPM mismatch,WARNING
+profitandloss,501,opm_percentage,OPM mismatch,WARNING
+profitandloss,502,opm_percentage,OPM mismatch,WARNING
+profitandloss,503,opm_percentage,OPM mismatch,WARNING
+profitandloss,504,opm_percentage,OPM mismatch,WARNING
+profitandloss,505,opm_percentage,OPM mismatch,WARNING
+profitandloss,506,opm_percentage,OPM mismatch,WARNING
+profitandloss,507,opm_percentage,OPM mismatch,WARNING
+profitandloss,508,opm_percentage,OPM mismatch,WARNING
+profitandloss,509,opm_percentage,OPM mismatch,WARNING
+profitandloss,510,opm_percentage,OPM mismatch,WARNING
+profitandloss,511,opm_percentage,OPM mismatch,WARNING
+profitandloss,512,opm_percentage,OPM mismatch,WARNING
+profitandloss,513,opm_percentage,OPM mismatch,WARNING
+profitandloss,514,opm_percentage,OPM mismatch,WARNING
+profitandloss,515,opm_percentage,OPM mismatch,WARNING
+profitandloss,516,opm_percentage,OPM mismatch,WARNING
+profitandloss,517,opm_percentage,OPM mismatch,WARNING
+profitandloss,518,opm_percentage,OPM mismatch,WARNING
+profitandloss,519,opm_percentage,OPM mismatch,WARNING
+profitandloss,520,opm_percentage,OPM mismatch,WARNING
+profitandloss,521,opm_percentage,OPM mismatch,WARNING
+profitandloss,522,opm_percentage,OPM mismatch,WARNING
+profitandloss,523,opm_percentage,OPM mismatch,WARNING
+profitandloss,524,opm_percentage,OPM mismatch,WARNING
+profitandloss,525,opm_percentage,OPM mismatch,WARNING
+profitandloss,526,opm_percentage,OPM mismatch,WARNING
+profitandloss,527,opm_percentage,OPM mismatch,WARNING
+profitandloss,528,opm_percentage,OPM mismatch,WARNING
+profitandloss,529,opm_percentage,OPM mismatch,WARNING
+profitandloss,530,opm_percentage,OPM mismatch,WARNING
+profitandloss,531,opm_percentage,OPM mismatch,WARNING
+profitandloss,532,opm_percentage,OPM mismatch,WARNING
+profitandloss,533,opm_percentage,OPM mismatch,WARNING
+profitandloss,534,opm_percentage,OPM mismatch,WARNING
+profitandloss,535,opm_percentage,OPM mismatch,WARNING
+profitandloss,536,opm_percentage,OPM mismatch,WARNING
+profitandloss,537,opm_percentage,OPM mismatch,WARNING
+profitandloss,538,opm_percentage,OPM mismatch,WARNING
+profitandloss,539,opm_percentage,OPM mismatch,WARNING
+profitandloss,540,opm_percentage,OPM mismatch,WARNING
+profitandloss,541,opm_percentage,OPM mismatch,WARNING
+profitandloss,542,opm_percentage,OPM mismatch,WARNING
+profitandloss,543,opm_percentage,OPM mismatch,WARNING
+profitandloss,544,opm_percentage,OPM mismatch,WARNING
+profitandloss,545,opm_percentage,OPM mismatch,WARNING
+profitandloss,546,opm_percentage,OPM mismatch,WARNING
+profitandloss,547,opm_percentage,OPM mismatch,WARNING
+profitandloss,548,opm_percentage,OPM mismatch,WARNING
+profitandloss,549,opm_percentage,OPM mismatch,WARNING
+profitandloss,550,opm_percentage,OPM mismatch,WARNING
+profitandloss,551,opm_percentage,OPM mismatch,WARNING
+profitandloss,552,opm_percentage,OPM mismatch,WARNING
+profitandloss,553,opm_percentage,OPM mismatch,WARNING
+profitandloss,554,opm_percentage,OPM mismatch,WARNING
+profitandloss,555,opm_percentage,OPM mismatch,WARNING
+profitandloss,556,opm_percentage,OPM mismatch,WARNING
+profitandloss,557,opm_percentage,OPM mismatch,WARNING
+profitandloss,558,opm_percentage,OPM mismatch,WARNING
+profitandloss,559,opm_percentage,OPM mismatch,WARNING
+profitandloss,560,opm_percentage,OPM mismatch,WARNING
+profitandloss,561,opm_percentage,OPM mismatch,WARNING
+profitandloss,562,opm_percentage,OPM mismatch,WARNING
+profitandloss,563,opm_percentage,OPM mismatch,WARNING
+profitandloss,564,opm_percentage,OPM mismatch,WARNING
+profitandloss,565,opm_percentage,OPM mismatch,WARNING
+profitandloss,566,opm_percentage,OPM mismatch,WARNING
+profitandloss,567,opm_percentage,OPM mismatch,WARNING
+profitandloss,568,opm_percentage,OPM mismatch,WARNING
+profitandloss,569,opm_percentage,OPM mismatch,WARNING
+profitandloss,570,opm_percentage,OPM mismatch,WARNING
+profitandloss,571,opm_percentage,OPM mismatch,WARNING
+profitandloss,572,opm_percentage,OPM mismatch,WARNING
+profitandloss,573,opm_percentage,OPM mismatch,WARNING
+profitandloss,574,opm_percentage,OPM mismatch,WARNING
+profitandloss,575,opm_percentage,OPM mismatch,WARNING
+profitandloss,576,opm_percentage,OPM mismatch,WARNING
+profitandloss,577,opm_percentage,OPM mismatch,WARNING
+profitandloss,578,opm_percentage,OPM mismatch,WARNING
+profitandloss,579,opm_percentage,OPM mismatch,WARNING
+profitandloss,580,opm_percentage,OPM mismatch,WARNING
+profitandloss,581,opm_percentage,OPM mismatch,WARNING
+profitandloss,582,opm_percentage,OPM mismatch,WARNING
+profitandloss,583,opm_percentage,OPM mismatch,WARNING
+profitandloss,584,opm_percentage,OPM mismatch,WARNING
+profitandloss,585,opm_percentage,OPM mismatch,WARNING
+profitandloss,586,opm_percentage,OPM mismatch,WARNING
+profitandloss,587,opm_percentage,OPM mismatch,WARNING
+profitandloss,588,opm_percentage,OPM mismatch,WARNING
+profitandloss,589,opm_percentage,OPM mismatch,WARNING
+profitandloss,590,opm_percentage,OPM mismatch,WARNING
+profitandloss,591,opm_percentage,OPM mismatch,WARNING
+profitandloss,592,opm_percentage,OPM mismatch,WARNING
+profitandloss,593,opm_percentage,OPM mismatch,WARNING
+profitandloss,594,opm_percentage,OPM mismatch,WARNING
+profitandloss,595,opm_percentage,OPM mismatch,WARNING
+profitandloss,596,opm_percentage,OPM mismatch,WARNING
+profitandloss,597,opm_percentage,OPM mismatch,WARNING
+profitandloss,598,opm_percentage,OPM mismatch,WARNING
+profitandloss,599,opm_percentage,OPM mismatch,WARNING
+profitandloss,600,opm_percentage,OPM mismatch,WARNING
+profitandloss,601,opm_percentage,OPM mismatch,WARNING
+profitandloss,602,opm_percentage,OPM mismatch,WARNING
+profitandloss,603,opm_percentage,OPM mismatch,WARNING
+profitandloss,604,opm_percentage,OPM mismatch,WARNING
+profitandloss,605,opm_percentage,OPM mismatch,WARNING
+profitandloss,606,opm_percentage,OPM mismatch,WARNING
+profitandloss,607,opm_percentage,OPM mismatch,WARNING
+profitandloss,608,opm_percentage,OPM mismatch,WARNING
+profitandloss,609,opm_percentage,OPM mismatch,WARNING
+profitandloss,610,opm_percentage,OPM mismatch,WARNING
+profitandloss,687,opm_percentage,OPM mismatch,WARNING
+profitandloss,716,opm_percentage,OPM mismatch,WARNING
+profitandloss,717,opm_percentage,OPM mismatch,WARNING
+profitandloss,718,opm_percentage,OPM mismatch,WARNING
+profitandloss,719,opm_percentage,OPM mismatch,WARNING
+profitandloss,720,opm_percentage,OPM mismatch,WARNING
+profitandloss,721,opm_percentage,OPM mismatch,WARNING
+profitandloss,722,opm_percentage,OPM mismatch,WARNING
+profitandloss,723,opm_percentage,OPM mismatch,WARNING
+profitandloss,724,opm_percentage,OPM mismatch,WARNING
+profitandloss,725,opm_percentage,OPM mismatch,WARNING
+profitandloss,726,opm_percentage,OPM mismatch,WARNING
+profitandloss,727,opm_percentage,OPM mismatch,WARNING
+profitandloss,728,opm_percentage,OPM mismatch,WARNING
+profitandloss,1032,opm_percentage,OPM mismatch,WARNING
+profitandloss,1263,opm_percentage,OPM mismatch,WARNING
+profitandloss,1264,opm_percentage,OPM mismatch,WARNING
+profitandloss,1265,opm_percentage,OPM mismatch,WARNING
+profitandloss,1266,opm_percentage,OPM mismatch,WARNING
+profitandloss,1267,opm_percentage,OPM mismatch,WARNING
+profitandloss,1268,opm_percentage,OPM mismatch,WARNING
+profitandloss,1269,opm_percentage,OPM mismatch,WARNING
+profitandloss,1270,opm_percentage,OPM mismatch,WARNING
+profitandloss,1271,opm_percentage,OPM mismatch,WARNING
+profitandloss,1272,opm_percentage,OPM mismatch,WARNING
+profitandloss,1273,opm_percentage,OPM mismatch,WARNING
+profitandloss,1274,opm_percentage,OPM mismatch,WARNING
+profitandloss,1275,opm_percentage,OPM mismatch,WARNING
+profitandloss,12,year,Invalid year format,WARNING
+profitandloss,24,year,Invalid year format,WARNING
+profitandloss,37,year,Invalid year format,WARNING
+profitandloss,46,year,Invalid year format,WARNING
+profitandloss,59,year,Invalid year format,WARNING
+profitandloss,72,year,Invalid year format,WARNING
+profitandloss,85,year,Invalid year format,WARNING
+profitandloss,98,year,Invalid year format,WARNING
+profitandloss,111,year,Invalid year format,WARNING
+profitandloss,124,year,Invalid year format,WARNING
+profitandloss,132,year,Invalid year format,WARNING
+profitandloss,145,year,Invalid year format,WARNING
+profitandloss,158,year,Invalid year format,WARNING
+profitandloss,171,year,Invalid year format,WARNING
+profitandloss,184,year,Invalid year format,WARNING
+profitandloss,195,year,Invalid year format,WARNING
+profitandloss,208,year,Invalid year format,WARNING
+profitandloss,221,year,Invalid year format,WARNING
+profitandloss,234,year,Invalid year format,WARNING
+profitandloss,247,year,Invalid year format,WARNING
+profitandloss,260,year,Invalid year format,WARNING
+profitandloss,273,year,Invalid year format,WARNING
+profitandloss,286,year,Invalid year format,WARNING
+profitandloss,299,year,Invalid year format,WARNING
+profitandloss,312,year,Invalid year format,WARNING
+profitandloss,325,year,Invalid year format,WARNING
+profitandloss,338,year,Invalid year format,WARNING
+profitandloss,351,year,Invalid year format,WARNING
+profitandloss,364,year,Invalid year format,WARNING
+profitandloss,377,year,Invalid year format,WARNING
+profitandloss,390,year,Invalid year format,WARNING
+profitandloss,403,year,Invalid year format,WARNING
+profitandloss,416,year,Invalid year format,WARNING
+profitandloss,429,year,Invalid year format,WARNING
+profitandloss,442,year,Invalid year format,WARNING
+profitandloss,455,year,Invalid year format,WARNING
+profitandloss,468,year,Invalid year format,WARNING
+profitandloss,481,year,Invalid year format,WARNING
+profitandloss,494,year,Invalid year format,WARNING
+profitandloss,507,year,Invalid year format,WARNING
+profitandloss,520,year,Invalid year format,WARNING
+profitandloss,532,year,Invalid year format,WARNING
+profitandloss,545,year,Invalid year format,WARNING
+profitandloss,558,year,Invalid year format,WARNING
+profitandloss,571,year,Invalid year format,WARNING
+profitandloss,584,year,Invalid year format,WARNING
+profitandloss,597,year,Invalid year format,WARNING
+profitandloss,610,year,Invalid year format,WARNING
+profitandloss,623,year,Invalid year format,WARNING
+profitandloss,636,year,Invalid year format,WARNING
+profitandloss,647,year,Invalid year format,WARNING
+profitandloss,660,year,Invalid year format,WARNING
+profitandloss,673,year,Invalid year format,WARNING
+profitandloss,686,year,Invalid year format,WARNING
+profitandloss,689,year,Invalid year format,WARNING
+profitandloss,702,year,Invalid year format,WARNING
+profitandloss,715,year,Invalid year format,WARNING
+profitandloss,728,year,Invalid year format,WARNING
+profitandloss,735,year,Invalid year format,WARNING
+profitandloss,748,year,Invalid year format,WARNING
+profitandloss,761,year,Invalid year format,WARNING
+profitandloss,774,year,Invalid year format,WARNING
+profitandloss,787,year,Invalid year format,WARNING
+profitandloss,800,year,Invalid year format,WARNING
+profitandloss,813,year,Invalid year format,WARNING
+profitandloss,826,year,Invalid year format,WARNING
+profitandloss,839,year,Invalid year format,WARNING
+profitandloss,852,year,Invalid year format,WARNING
+profitandloss,865,year,Invalid year format,WARNING
+profitandloss,878,year,Invalid year format,WARNING
+profitandloss,891,year,Invalid year format,WARNING
+profitandloss,904,year,Invalid year format,WARNING
+profitandloss,917,year,Invalid year format,WARNING
+profitandloss,930,year,Invalid year format,WARNING
+profitandloss,943,year,Invalid year format,WARNING
+profitandloss,956,year,Invalid year format,WARNING
+profitandloss,969,year,Invalid year format,WARNING
+profitandloss,982,year,Invalid year format,WARNING
+profitandloss,995,year,Invalid year format,WARNING
+profitandloss,1008,year,Invalid year format,WARNING
+profitandloss,1033,year,Invalid year format,WARNING
+profitandloss,1046,year,Invalid year format,WARNING
+profitandloss,1059,year,Invalid year format,WARNING
+profitandloss,1072,year,Invalid year format,WARNING
+profitandloss,1085,year,Invalid year format,WARNING
+profitandloss,1098,year,Invalid year format,WARNING
+profitandloss,1111,year,Invalid year format,WARNING
+profitandloss,1124,year,Invalid year format,WARNING
+profitandloss,1137,year,Invalid year format,WARNING
+profitandloss,1150,year,Invalid year format,WARNING
+profitandloss,1163,year,Invalid year format,WARNING
+profitandloss,1176,year,Invalid year format,WARNING
+profitandloss,1189,year,Invalid year format,WARNING
+profitandloss,1202,year,Invalid year format,WARNING
+profitandloss,1215,year,Invalid year format,WARNING
+profitandloss,1228,year,Invalid year format,WARNING
+profitandloss,1241,year,Invalid year format,WARNING
+profitandloss,1249,year,Invalid year format,WARNING
+profitandloss,1262,year,Invalid year format,WARNING
+profitandloss,1275,year,Invalid year format,WARNING

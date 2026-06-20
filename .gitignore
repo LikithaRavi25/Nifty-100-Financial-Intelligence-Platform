@@ -1,25 +1,5 @@
-# Virtual Environment
 venv/
-.env
-
-# Python Cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# VS Code
-.vscode/
-
-# Jupyter
+.env
 .ipynb_checkpoints/
-
-# OS Files
-.DS_Store
-Thumbs.db
-
-# Test Cache
-.pytest_cache/
-
-# Logs
-*.log

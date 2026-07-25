@@ -160,7 +160,7 @@ Implemented:
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/LikithaRavi25/Nifty100_Financial_Intelligence_Platform.git
 
 cd NIFTY-100-Financial-Intelligence-Platform
 

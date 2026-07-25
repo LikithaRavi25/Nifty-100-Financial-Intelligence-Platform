@@ -1,0 +1,31 @@
+filters:
+
+  roe_min: 15
+
+  debt_to_equity_max: 1
+
+  interest_coverage_min: 2
+
+  asset_turnover_min: null
+
+  free_cash_flow_min: 0
+
+  revenue_cagr_min: null
+
+  pat_cagr_min: null
+
+  eps_cagr_min: null
+
+  operating_profit_margin_min: null
+
+  dividend_payout_max: null
+
+  book_value_min: null
+
+  earnings_per_share_min: null
+
+  capex_max: null
+
+  total_debt_max: null
+
+  sales_min: null

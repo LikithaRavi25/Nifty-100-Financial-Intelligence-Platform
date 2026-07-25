@@ -23,16 +23,23 @@ def clean_column_name(col):
     Convert column names into snake_case.
     """
 
+    if col is None:
+        return None
+
     col = str(col).strip().lower()
 
-    col = re.sub(r"[^a-z0-9]+", "_", col)
+    col = re.sub(
+        r"[^a-z0-9]+",
+        "_",
+        col
+    )
 
     return col.strip("_")
 
 
 def normalize_company_id(value):
     """
-    Convert company ticker to standard format.
+    Standardize company ticker.
     """
 
     if value is None:
@@ -43,9 +50,14 @@ def normalize_company_id(value):
 
 def normalize_year(value):
     """
-    Convert:
-    Mar-23 -> 2023-03
-    Dec-24 -> 2024-12
+    Convert different year formats into YYYY-MM.
+
+    Examples:
+        Mar-23   -> 2023-03
+        Mar 23   -> 2023-03
+        Mar 2023 -> 2023-03
+        Dec 2012 -> 2012-12
+        TTM      -> TTM
     """
 
     if value is None:
@@ -53,20 +65,27 @@ def normalize_year(value):
 
     value = str(value).strip()
 
+    if value.upper() == "TTM":
+        return "TTM"
+
     match = re.match(
-        r"([A-Za-z]{3})[- ]?(\d{2})",
+        r"([A-Za-z]{3})[- ]?(\d{2,4})",
         value
     )
 
     if match:
 
-        month = MONTH_MAP[
+        month = MONTH_MAP.get(
             match.group(1).upper()
-        ]
+        )
+
+        if month is None:
+            return value
 
         year = int(match.group(2))
 
-        year += 2000
+        if year < 100:
+            year += 2000
 
         return f"{year}-{month}"
 
@@ -74,14 +93,27 @@ def normalize_year(value):
 
 
 def normalize_dataframe(df):
+    """
+    Normalize dataframe columns.
+    """
 
+    # Clean column names
+    df.columns = [
+        clean_column_name(col)
+        for col in df.columns
+    ]
+
+    # Normalize company id
     if "company_id" in df.columns:
+
         df["company_id"] = (
             df["company_id"]
             .apply(normalize_company_id)
         )
 
+    # Normalize year
     if "year" in df.columns:
+
         df["year"] = (
             df["year"]
             .apply(normalize_year)

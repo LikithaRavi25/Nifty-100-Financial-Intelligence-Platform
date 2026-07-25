@@ -9,7 +9,7 @@ from src.etl.loader import (
 
 from src.etl.audit import save_audit
 
-from src.validators.validator import (
+from src.etl.validator import (
     validate_table,
     save_validation_report
 )

@@ -1,0 +1,595 @@
+company_id,company_name,type,rule_id,text,confidence_pct
+ABB,Abbott India Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ABB,Abbott India Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+ABB,Abbott India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ABB,Abbott India Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+ABB,Abbott India Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+ABB,Abbott India Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+ADANIENSOL,Adani Energy Solutions Ltd,Con,C1,Debt-to-equity ratio of 2.93 indicates elevated financial leverage.,95
+ADANIENSOL,Adani Energy Solutions Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ADANIENSOL,Adani Energy Solutions Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ADANIENSOL,Adani Energy Solutions Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ADANIENT,Adani Enterprises Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+ADANIENT,Adani Enterprises Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ADANIENT,Adani Enterprises Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+ADANIENT,Adani Enterprises Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+ADANIGREEN,Adani Green Energy Ltd,Con,C1,Debt-to-equity ratio of 6.60 indicates elevated financial leverage.,95
+ADANIGREEN,Adani Green Energy Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+ADANIGREEN,Adani Green Energy Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+ADANIGREEN,Adani Green Energy Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ADANIGREEN,Adani Green Energy Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ADANIPOWER,Adani Power Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ADANIPOWER,Adani Power Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+ADANIPOWER,Adani Power Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ADANIPOWER,Adani Power Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ADANIPOWER,Adani Power Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+AMBUJACEM,Ambuja Cements Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+AMBUJACEM,Ambuja Cements Ltd,Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+AMBUJACEM,Ambuja Cements Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+AMBUJACEM,Ambuja Cements Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+DMART,Avenue Supermarts Ltd,Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+DMART,Avenue Supermarts Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+DMART,Avenue Supermarts Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+DMART,Avenue Supermarts Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+DMART,Avenue Supermarts Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+DMART,Avenue Supermarts Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+AXISBANK,Axis Bank Ltd,Con,C1,Debt-to-equity ratio of 8.25 indicates elevated financial leverage.,95
+AXISBANK,Axis Bank Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+AXISBANK,Axis Bank Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+AXISBANK,Axis Bank Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+AXISBANK,Axis Bank Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+AXISBANK,Axis Bank Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+AXISBANK,Axis Bank Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+AXISBANK,Axis Bank Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BAJAJ-AUTO,Bajaj Auto Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+BAJAJ-AUTO,Bajaj Auto Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BAJAJ-AUTO,Bajaj Auto Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+BAJAJ-AUTO,Bajaj Auto Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BAJAJ-AUTO,Bajaj Auto Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BAJFINANCE,Bajaj Finance Ltd,Con,C1,Debt-to-equity ratio of 3.82 indicates elevated financial leverage.,95
+BAJFINANCE,Bajaj Finance Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+BAJFINANCE,Bajaj Finance Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+BAJFINANCE,Bajaj Finance Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+BAJFINANCE,Bajaj Finance Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+BAJFINANCE,Bajaj Finance Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+BAJFINANCE,Bajaj Finance Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+BAJFINANCE,Bajaj Finance Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BAJFINANCE,Bajaj Finance Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BAJAJFINSV,Bajaj Finserv Ltd,Con,C1,Debt-to-equity ratio of 4.79 indicates elevated financial leverage.,95
+BAJAJFINSV,Bajaj Finserv Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+BAJAJFINSV,Bajaj Finserv Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+BAJAJFINSV,Bajaj Finserv Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+BAJAJFINSV,Bajaj Finserv Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BAJAJFINSV,Bajaj Finserv Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+BAJAJFINSV,Bajaj Finserv Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+BAJAJFINSV,Bajaj Finserv Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+BAJAJFINSV,Bajaj Finserv Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BANKBARODA,Bank of Baroda,Con,C1,Debt-to-equity ratio of 12.14 indicates elevated financial leverage.,95
+BANKBARODA,Bank of Baroda,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+BANKBARODA,Bank of Baroda,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+BANKBARODA,Bank of Baroda,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+BANKBARODA,Bank of Baroda,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+BANKBARODA,Bank of Baroda,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+BANKBARODA,Bank of Baroda,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+BANKBARODA,Bank of Baroda,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+BANKBARODA,Bank of Baroda,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BEL,Bharat Electronics Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+BEL,Bharat Electronics Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BEL,Bharat Electronics Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BEL,Bharat Electronics Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BHEL,"Bharat Heavy Electricals Limited
+",Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+BHEL,"Bharat Heavy Electricals Limited
+",Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+BHEL,"Bharat Heavy Electricals Limited
+",Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+BHEL,"Bharat Heavy Electricals Limited
+",Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+BHEL,"Bharat Heavy Electricals Limited
+",Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+BHEL,"Bharat Heavy Electricals Limited
+",Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+BHEL,"Bharat Heavy Electricals Limited
+",Pro,DEFAULT,Stable business with no major positive financial signals identified.,65
+BPCL,Bharat Petroleum Corporation Ltd,Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+BPCL,Bharat Petroleum Corporation Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BPCL,Bharat Petroleum Corporation Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+BPCL,Bharat Petroleum Corporation Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+BPCL,Bharat Petroleum Corporation Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BPCL,Bharat Petroleum Corporation Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BHARTIARTL,Bharti Airtel Ltd,Con,C1,Debt-to-equity ratio of 2.61 indicates elevated financial leverage.,95
+BHARTIARTL,Bharti Airtel Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+BHARTIARTL,Bharti Airtel Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+BHARTIARTL,Bharti Airtel Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+BHARTIARTL,Bharti Airtel Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BOSCHLTD,Bosch Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+BOSCHLTD,Bosch Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BOSCHLTD,Bosch Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+BOSCHLTD,Bosch Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+BOSCHLTD,Bosch Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BOSCHLTD,Bosch Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+BRITANNIA,Britannia Industries Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+BRITANNIA,Britannia Industries Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+BRITANNIA,Britannia Industries Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+BRITANNIA,Britannia Industries Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+BRITANNIA,Britannia Industries Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+CANBK,Canara Bank,Con,C1,Debt-to-equity ratio of 14.87 indicates elevated financial leverage.,95
+CANBK,Canara Bank,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+CANBK,Canara Bank,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+CANBK,Canara Bank,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+CANBK,Canara Bank,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+CANBK,Canara Bank,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+CANBK,Canara Bank,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+CANBK,Canara Bank,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Con,C1,Debt-to-equity ratio of 6.86 indicates elevated financial leverage.,95
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+CIPLA,"Cipla Ltd
+",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+CIPLA,"Cipla Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+CIPLA,"Cipla Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+CIPLA,"Cipla Ltd
+",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+CIPLA,"Cipla Ltd
+",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+CIPLA,"Cipla Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+COALINDIA,Coal India Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+COALINDIA,Coal India Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+COALINDIA,Coal India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+COALINDIA,Coal India Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+COALINDIA,Coal India Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+COALINDIA,Coal India Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+DLF,DLF Ltd,Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+DLF,DLF Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+DLF,DLF Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+DLF,DLF Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+DLF,DLF Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+DABUR,Dabur India Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+DABUR,Dabur India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+DABUR,Dabur India Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+DIVISLAB,Divis Laboratories Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+DIVISLAB,Divis Laboratories Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+DIVISLAB,Divis Laboratories Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+DIVISLAB,Divis Laboratories Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+DIVISLAB,Divis Laboratories Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+DRREDDY,Dr Reddys Laboratories Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+DRREDDY,Dr Reddys Laboratories Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+DRREDDY,Dr Reddys Laboratories Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+DRREDDY,Dr Reddys Laboratories Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+DRREDDY,Dr Reddys Laboratories Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+DRREDDY,Dr Reddys Laboratories Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+EICHERMOT,Eicher Motors Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+EICHERMOT,Eicher Motors Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+EICHERMOT,Eicher Motors Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+EICHERMOT,Eicher Motors Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+EICHERMOT,Eicher Motors Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+EICHERMOT,Eicher Motors Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+GAIL,GAIL (India) Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+GAIL,GAIL (India) Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+GAIL,GAIL (India) Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+GODREJCP,Godrej Consumer Products Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+GODREJCP,Godrej Consumer Products Ltd,Con,C4,Company reported a negative net profit margin in the latest financial year.,95
+GODREJCP,Godrej Consumer Products Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+GODREJCP,Godrej Consumer Products Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+GODREJCP,Godrej Consumer Products Ltd,Pro,DEFAULT,Stable business with no major positive financial signals identified.,65
+GRASIM,Grasim Industries Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+GRASIM,Grasim Industries Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+GRASIM,Grasim Industries Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+GRASIM,Grasim Industries Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+HCLTECH,HCL Technologies Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+HCLTECH,HCL Technologies Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+HCLTECH,HCL Technologies Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HCLTECH,HCL Technologies Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HDFCBANK,HDFC Bank Ltd,Con,C1,Debt-to-equity ratio of 6.81 indicates elevated financial leverage.,95
+HDFCBANK,HDFC Bank Ltd,Con,C6,Low interest coverage indicates difficulty servicing debt obligations.,95
+HDFCBANK,HDFC Bank Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+HDFCBANK,HDFC Bank Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+HDFCBANK,HDFC Bank Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+HDFCBANK,HDFC Bank Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HDFCBANK,HDFC Bank Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+HDFCBANK,HDFC Bank Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+HDFCBANK,HDFC Bank Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+HDFCBANK,HDFC Bank Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+HDFCLIFE,HDFC Life Insurance Company Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+HDFCLIFE,HDFC Life Insurance Company Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+HDFCLIFE,HDFC Life Insurance Company Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+HDFCLIFE,HDFC Life Insurance Company Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+HDFCLIFE,HDFC Life Insurance Company Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HAVELLS,Havells India Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+HAVELLS,Havells India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HAVELLS,Havells India Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HINDALCO,Hindalco Industries Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+HINDALCO,Hindalco Industries Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HINDALCO,Hindalco Industries Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+HINDALCO,Hindalco Industries Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HINDALCO,Hindalco Industries Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+HAL,Hindustan Aeronautics Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+HAL,Hindustan Aeronautics Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+HAL,Hindustan Aeronautics Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HAL,Hindustan Aeronautics Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+HAL,Hindustan Aeronautics Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+HAL,Hindustan Aeronautics Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HAL,Hindustan Aeronautics Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+HINDUNILVR,"Hindustan Unilever Ltd
+",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+HINDUNILVR,"Hindustan Unilever Ltd
+",Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+HINDUNILVR,"Hindustan Unilever Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+HINDUNILVR,"Hindustan Unilever Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+HINDUNILVR,"Hindustan Unilever Ltd
+",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+HINDUNILVR,"Hindustan Unilever Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+ICICIBANK,ICICI Bank Ltd,Con,C1,Debt-to-equity ratio of 6.45 indicates elevated financial leverage.,95
+ICICIBANK,ICICI Bank Ltd,Con,C6,Low interest coverage indicates difficulty servicing debt obligations.,95
+ICICIBANK,ICICI Bank Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+ICICIBANK,ICICI Bank Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+ICICIBANK,ICICI Bank Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ICICIBANK,ICICI Bank Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ICICIBANK,ICICI Bank Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ICICIBANK,ICICI Bank Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+ICICIBANK,ICICI Bank Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+ITC,"ITC Ltd
+",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ITC,"ITC Ltd
+",Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+ITC,"ITC Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ITC,"ITC Ltd
+",Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+ITC,"ITC Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+ITC,"ITC Ltd
+",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+ITC,"ITC Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+IOC,"Indian Oil Corporation
+",Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+IOC,"Indian Oil Corporation
+",Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+IOC,"Indian Oil Corporation
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+IOC,"Indian Oil Corporation
+",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+IOC,"Indian Oil Corporation
+",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+IOC,"Indian Oil Corporation
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+IRFC,Indian Railway Finance Corporation Ltd,Con,C1,Debt-to-equity ratio of 8.38 indicates elevated financial leverage.,95
+IRFC,Indian Railway Finance Corporation Ltd,Con,C6,Low interest coverage indicates difficulty servicing debt obligations.,95
+IRFC,Indian Railway Finance Corporation Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+IRFC,Indian Railway Finance Corporation Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+IRFC,Indian Railway Finance Corporation Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+IRFC,Indian Railway Finance Corporation Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+IRFC,Indian Railway Finance Corporation Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+IRFC,Indian Railway Finance Corporation Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+IRFC,Indian Railway Finance Corporation Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+INDUSINDBK,IndusInd Bank Ltd,Con,C1,Debt-to-equity ratio of 6.89 indicates elevated financial leverage.,95
+INDUSINDBK,IndusInd Bank Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+INDUSINDBK,IndusInd Bank Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+INDUSINDBK,IndusInd Bank Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+INDUSINDBK,IndusInd Bank Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+INDUSINDBK,IndusInd Bank Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+INDUSINDBK,IndusInd Bank Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+INDUSINDBK,IndusInd Bank Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+INDUSINDBK,IndusInd Bank Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+NAUKRI,Info Edge (India) Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+NAUKRI,Info Edge (India) Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+NAUKRI,Info Edge (India) Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+NAUKRI,Info Edge (India) Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+NAUKRI,Info Edge (India) Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+NAUKRI,Info Edge (India) Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+INFY,Infosys Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+INFY,Infosys Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+INFY,Infosys Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+INFY,Infosys Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+INDIGO,Interglobe Aviation Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+INDIGO,Interglobe Aviation Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+INDIGO,Interglobe Aviation Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+INDIGO,Interglobe Aviation Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+INDIGO,Interglobe Aviation Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+INDIGO,Interglobe Aviation Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+INDIGO,Interglobe Aviation Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+INDIGO,Interglobe Aviation Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+JSWENERGY,JSW Energy Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+JSWENERGY,JSW Energy Ltd,Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+JSWENERGY,JSW Energy Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+JSWENERGY,JSW Energy Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+JSWENERGY,JSW Energy Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+JSWSTEEL,JSW Steel Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+JSWSTEEL,JSW Steel Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+JSWSTEEL,JSW Steel Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+JINDALSTEL,Jindal Steel & Power Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+JINDALSTEL,Jindal Steel & Power Ltd,Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+JINDALSTEL,Jindal Steel & Power Ltd,Pro,DEFAULT,Stable business with no major positive financial signals identified.,65
+JIOFIN,Jio Financial Services Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+JIOFIN,Jio Financial Services Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+JIOFIN,Jio Financial Services Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+JIOFIN,Jio Financial Services Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+JIOFIN,Jio Financial Services Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+JIOFIN,Jio Financial Services Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Con,C1,Debt-to-equity ratio of 4.00 indicates elevated financial leverage.,95
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Con,C6,Low interest coverage indicates difficulty servicing debt obligations.,95
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+LTIM,LTIMindtree Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+LTIM,LTIMindtree Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+LTIM,LTIMindtree Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+LTIM,LTIMindtree Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+LTIM,LTIMindtree Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+LTIM,LTIMindtree Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+LT,Larsen & Toubro Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+LT,Larsen & Toubro Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+LT,Larsen & Toubro Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+LICI,Life Insurance Corporation of India,Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+LICI,Life Insurance Corporation of India,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+LICI,Life Insurance Corporation of India,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+LICI,Life Insurance Corporation of India,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+LICI,Life Insurance Corporation of India,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+LICI,Life Insurance Corporation of India,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+LICI,Life Insurance Corporation of India,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+LODHA,Macrotech Developers Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+LODHA,Macrotech Developers Ltd,Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+LODHA,Macrotech Developers Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+LODHA,Macrotech Developers Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+LODHA,Macrotech Developers Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+M&M,"Mahindra & Mahindra Ltd
+",Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+M&M,"Mahindra & Mahindra Ltd
+",Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+M&M,"Mahindra & Mahindra Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+MARUTI,Maruti Suzuki India Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+MARUTI,Maruti Suzuki India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+MARUTI,Maruti Suzuki India Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+MARUTI,Maruti Suzuki India Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+MARUTI,Maruti Suzuki India Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+NHPC,"NHPC Ltd
+",Con,C5,Revenue growth below 5% CAGR indicates weak business momentum.,85
+NHPC,"NHPC Ltd
+",Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+NHPC,"NHPC Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+NHPC,"NHPC Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+NHPC,"NHPC Ltd
+",Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+NHPC,"NHPC Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+NTPC,NTPC Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+NTPC,NTPC Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+NTPC,NTPC Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+NESTLEIND,Nestle India Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+NESTLEIND,Nestle India Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+NESTLEIND,Nestle India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+NESTLEIND,Nestle India Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+NESTLEIND,Nestle India Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+ONGC,Oil & Natural Gas Corpn Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+ONGC,Oil & Natural Gas Corpn Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+ONGC,Oil & Natural Gas Corpn Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+ONGC,Oil & Natural Gas Corpn Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+PIDILITIND,Pidilite Industries Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+PIDILITIND,Pidilite Industries Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+PIDILITIND,Pidilite Industries Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+PIDILITIND,Pidilite Industries Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+PIDILITIND,Pidilite Industries Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+PFC,Power Finance Corporation Ltd,Con,C1,Debt-to-equity ratio of 8.52 indicates elevated financial leverage.,95
+PFC,Power Finance Corporation Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+PFC,Power Finance Corporation Ltd,Con,C6,Low interest coverage indicates difficulty servicing debt obligations.,95
+PFC,Power Finance Corporation Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+PFC,Power Finance Corporation Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+PFC,Power Finance Corporation Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+PFC,Power Finance Corporation Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+PFC,Power Finance Corporation Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+PFC,Power Finance Corporation Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+POWERGRID,Power Grid Corporation of India Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+POWERGRID,Power Grid Corporation of India Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+POWERGRID,Power Grid Corporation of India Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+POWERGRID,Power Grid Corporation of India Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+PNB,Punjab National Bank,Con,C1,Debt-to-equity ratio of 3.68 indicates elevated financial leverage.,95
+PNB,Punjab National Bank,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+PNB,Punjab National Bank,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+PNB,Punjab National Bank,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+PNB,Punjab National Bank,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+RECLTD,REC Ltd,Con,C1,Debt-to-equity ratio of 6.42 indicates elevated financial leverage.,95
+RECLTD,REC Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+RECLTD,REC Ltd,Con,C8,Very high debt levels significantly increase financial leverage risk.,96
+RECLTD,REC Ltd,Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+RECLTD,REC Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+RECLTD,REC Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+RECLTD,REC Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+RECLTD,REC Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+RELIANCE,"Reliance Industries Ltd
+",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+RELIANCE,"Reliance Industries Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+RELIANCE,"Reliance Industries Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+SBILIFE,SBI Life Insurance Company Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+SBILIFE,SBI Life Insurance Company Ltd,Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+SBILIFE,SBI Life Insurance Company Ltd,Pro,P3,Debt-free balance sheet provides financial flexibility and eliminates interest burden.,95
+SBILIFE,SBI Life Insurance Company Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+SBILIFE,SBI Life Insurance Company Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+MOTHERSON,Samvardhana Motherson International Ltd,Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+MOTHERSON,Samvardhana Motherson International Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+SHREECEM,Shree Cement Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+SHREECEM,Shree Cement Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+SHREECEM,Shree Cement Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+SHREECEM,Shree Cement Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+SHRIRAMFIN,"Shriram Finance Ltd
+",Con,C1,Debt-to-equity ratio of 3.99 indicates elevated financial leverage.,95
+SHRIRAMFIN,"Shriram Finance Ltd
+",Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+SHRIRAMFIN,"Shriram Finance Ltd
+",Con,C6,Low interest coverage indicates difficulty servicing debt obligations.,95
+SHRIRAMFIN,"Shriram Finance Ltd
+",Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+SHRIRAMFIN,"Shriram Finance Ltd
+",Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+SHRIRAMFIN,"Shriram Finance Ltd
+",Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+SHRIRAMFIN,"Shriram Finance Ltd
+",Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+SHRIRAMFIN,"Shriram Finance Ltd
+",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+SHRIRAMFIN,"Shriram Finance Ltd
+",Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+SIEMENS,Siemens Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+SIEMENS,Siemens Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+SIEMENS,Siemens Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+SIEMENS,Siemens Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+TVSMOTOR,TVS Motor Company Ltd,Con,C1,Debt-to-equity ratio of 3.83 indicates elevated financial leverage.,95
+TVSMOTOR,TVS Motor Company Ltd,Con,C2,Negative free cash flow raises concerns about cash generation quality.,90
+TVSMOTOR,TVS Motor Company Ltd,Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+TVSMOTOR,TVS Motor Company Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TVSMOTOR,TVS Motor Company Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+TCS,Tata Consultancy Services Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+TCS,Tata Consultancy Services Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TCS,Tata Consultancy Services Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TCS,Tata Consultancy Services Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+TCS,Tata Consultancy Services Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+TATACONSUM,Tata Consumer Products Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+TATACONSUM,Tata Consumer Products Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TATACONSUM,Tata Consumer Products Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+TATACONSUM,Tata Consumer Products Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+TATACONSUM,Tata Consumer Products Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+TATACONSUM,Tata Consumer Products Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+TATAMOTORS,Tata Motors Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+TATAMOTORS,Tata Motors Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TATAMOTORS,Tata Motors Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TATAPOWER,"Tata Power Company Ltd
+",Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+TATAPOWER,"Tata Power Company Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TATAPOWER,"Tata Power Company Ltd
+",Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+TATASTEEL,"Tata Steel Ltd
+",Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+TATASTEEL,"Tata Steel Ltd
+",Con,C4,Company reported a negative net profit margin in the latest financial year.,95
+TATASTEEL,"Tata Steel Ltd
+",Con,C10,Return on capital employed below 10% indicates weak capital efficiency.,90
+TATASTEEL,"Tata Steel Ltd
+",Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+TATASTEEL,"Tata Steel Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TECHM,Tech Mahindra Ltd,Con,C3,"Operating profit margin is relatively low, indicating pricing or cost pressure.",84
+TECHM,Tech Mahindra Ltd,Con,C7,Dividend payout above 100% may not be sustainable over the long term.,88
+TECHM,Tech Mahindra Ltd,Con,C12,Profit growth below 5% CAGR indicates limited earnings momentum.,84
+TECHM,Tech Mahindra Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TECHM,Tech Mahindra Ltd,Pro,P7,Very high interest coverage reflects negligible financial stress from debt servicing.,88
+TITAN,"Titan Company Ltd
+",Con,C11,Weak cash flow quality suggests lower earnings reliability.,87
+TITAN,"Titan Company Ltd
+",Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TITAN,"Titan Company Ltd
+",Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TITAN,"Titan Company Ltd
+",Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+TITAN,"Titan Company Ltd
+",Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pro,P5,Operating margins above 25% indicate strong pricing power and cost discipline.,92
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84
+TRENT,Trent Ltd,Con,DEFAULT,"No major financial weaknesses detected, continued monitoring recommended.",65
+TRENT,Trent Ltd,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,95
+TRENT,Trent Ltd,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,90
+TRENT,Trent Ltd,Pro,P4,Revenue growing above 15% CAGR reflects strong business momentum.,90
+TRENT,Trent Ltd,Pro,P6,Net profit compounding above 20% creates significant shareholder value.,91
+TRENT,Trent Ltd,Pro,P11,Profit growth outpacing revenue suggests improving operating leverage.,84

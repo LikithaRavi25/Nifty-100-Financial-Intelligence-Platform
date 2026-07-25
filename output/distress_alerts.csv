@@ -1,0 +1,17 @@
+company_id,company_name,cfo_quality_score,free_cash_flow_cr,cashflow_classification,confidence_pct,operating_activity,investing_activity,financing_activity,capital_allocation,distress_signal,deleveraging
+AXISBANK,Axis Bank Ltd,-0.22,-14556.0,Weak Cash Flow,55,-5555.0,-9001.0,22341.0,Growth Funded by Debt,Yes,No
+BAJAJFINSV,Bajaj Finserv Ltd,-4.4,-79634.0,Weak Cash Flow,55,-68674.0,-10960.0,82709.0,Growth Funded by Debt,Yes,No
+BAJFINANCE,Bajaj Finance Ltd,-5.03,-79931.0,Weak Cash Flow,55,-72760.0,-7171.0,82415.0,Growth Funded by Debt,Yes,No
+BANKBARODA,Bank of Baroda,-0.33,-7559.0,Weak Cash Flow,55,-6274.0,-1285.0,5476.0,Growth Funded by Debt,Yes,No
+BHEL,"Bharat Heavy Electricals Limited
+",-13.17,-2382.0,Weak Cash Flow,55,-3713.0,1331.0,2656.0,Distress Signal,Yes,No
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,-10.43,-38538.0,Weak Cash Flow,55,-35683.0,-2855.0,38471.0,Growth Funded by Debt,Yes,No
+GRASIM,Grasim Industries Ltd,-1.08,-33833.0,Weak Cash Flow,55,-10719.0,-23114.0,33908.0,Growth Funded by Debt,Yes,No
+M&M,"Mahindra & Mahindra Ltd
+",-0.46,-11245.0,Weak Cash Flow,55,-5630.0,-5615.0,12281.0,Growth Funded by Debt,Yes,No
+PFC,Power Finance Corporation Ltd,-3.7,-101229.0,Weak Cash Flow,55,-97820.0,-3409.0,101261.0,Growth Funded by Debt,Yes,No
+PNB,Punjab National Bank,-3.05,-29445.0,Weak Cash Flow,55,-27939.0,-1506.0,3518.0,Growth Funded by Debt,Yes,No
+RECLTD,REC Ltd,-4.08,-59554.0,Weak Cash Flow,55,-57723.0,-1831.0,59588.0,Growth Funded by Debt,Yes,No
+SHRIRAMFIN,"Shriram Finance Ltd
+",-4.2,-31359.0,Weak Cash Flow,55,-31101.0,-258.0,27609.0,Growth Funded by Debt,Yes,No
+TVSMOTOR,TVS Motor Company Ltd,-0.7,-2254.0,Weak Cash Flow,55,-1253.0,-1001.0,2759.0,Growth Funded by Debt,Yes,No

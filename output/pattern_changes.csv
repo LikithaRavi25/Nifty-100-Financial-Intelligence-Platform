@@ -1,0 +1,633 @@
+company_id,company_name,year,previous_pattern,capital_allocation
+ABB,Abbott India Ltd,2017-03,Reinvestor,Shareholder Returns
+ABB,Abbott India Ltd,2018-03,Shareholder Returns,Reinvestor
+ABB,Abbott India Ltd,2019-03,Reinvestor,Shareholder Returns
+ABB,Abbott India Ltd,2023-03,Shareholder Returns,Reinvestor
+ABB,Abbott India Ltd,2024-03,Reinvestor,Shareholder Returns
+ADANIENSOL,Adani Energy Solutions Ltd,2015-03,Cash Accumulator,Growth Funded by Debt
+ADANIENSOL,Adani Energy Solutions Ltd,2016-03,Growth Funded by Debt,Shareholder Returns
+ADANIENSOL,Adani Energy Solutions Ltd,2018-03,Shareholder Returns,Mixed
+ADANIENSOL,Adani Energy Solutions Ltd,2021-03,Mixed,Shareholder Returns
+ADANIENSOL,Adani Energy Solutions Ltd,2023-03,Shareholder Returns,Mixed
+ADANIENSOL,Adani Energy Solutions Ltd,2024-03,Mixed,Shareholder Returns
+ADANIENT,Adani Enterprises Ltd,2014-03,Mixed,Shareholder Returns
+ADANIENT,Adani Enterprises Ltd,2015-03,Shareholder Returns,Mixed
+ADANIENT,Adani Enterprises Ltd,2016-03,Mixed,Shareholder Returns
+ADANIENT,Adani Enterprises Ltd,2017-03,Shareholder Returns,Mixed
+ADANIENT,Adani Enterprises Ltd,2019-03,Mixed,Liquidating Assets
+ADANIENT,Adani Enterprises Ltd,2020-03,Liquidating Assets,Shareholder Returns
+ADANIENT,Adani Enterprises Ltd,2021-03,Shareholder Returns,Mixed
+ADANIENT,Adani Enterprises Ltd,2023-03,Mixed,Shareholder Returns
+ADANIENT,Adani Enterprises Ltd,2024-03,Shareholder Returns,Mixed
+ADANIGREEN,Adani Green Energy Ltd,2023-03,Mixed,Shareholder Returns
+ADANIGREEN,Adani Green Energy Ltd,2024-03,Shareholder Returns,Mixed
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2015-03,Mixed,Shareholder Returns
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2016-03,Shareholder Returns,Mixed
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2017-03,Mixed,Shareholder Returns
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2019-03,Shareholder Returns,Mixed
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2020-03,Mixed,Shareholder Returns
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2021-03,Shareholder Returns,Mixed
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",2022-03,Mixed,Shareholder Returns
+ADANIPOWER,Adani Power Ltd,2015-03,Mixed,Reinvestor
+ADANIPOWER,Adani Power Ltd,2016-03,Reinvestor,Shareholder Returns
+ADANIPOWER,Adani Power Ltd,2017-03,Shareholder Returns,Reinvestor
+ADANIPOWER,Adani Power Ltd,2021-03,Reinvestor,Shareholder Returns
+ADANIPOWER,Adani Power Ltd,2022-03,Shareholder Returns,Liquidating Assets
+AMBUJACEM,Ambuja Cements Ltd,2013-12,Shareholder Returns,Reinvestor
+AMBUJACEM,Ambuja Cements Ltd,2014-12,Reinvestor,Shareholder Returns
+AMBUJACEM,Ambuja Cements Ltd,2018-12,Shareholder Returns,Reinvestor
+AMBUJACEM,Ambuja Cements Ltd,2019-12,Reinvestor,Shareholder Returns
+AMBUJACEM,Ambuja Cements Ltd,2023-03,Shareholder Returns,Mixed
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",2014-03,Mixed,Shareholder Returns
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",2015-03,Shareholder Returns,Mixed
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",2018-03,Mixed,Shareholder Returns
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2015-03,Shareholder Returns,Reinvestor
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2016-03,Reinvestor,Shareholder Returns
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2017-03,Shareholder Returns,Reinvestor
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2018-03,Reinvestor,Shareholder Returns
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2022-03,Shareholder Returns,Reinvestor
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",2024-03,Reinvestor,Shareholder Returns
+AXISBANK,Axis Bank Ltd,2015-03,Mixed,Growth Funded by Debt
+AXISBANK,Axis Bank Ltd,2016-03,Growth Funded by Debt,Distress Signal
+AXISBANK,Axis Bank Ltd,2017-03,Distress Signal,Shareholder Returns
+AXISBANK,Axis Bank Ltd,2018-03,Shareholder Returns,Growth Funded by Debt
+AXISBANK,Axis Bank Ltd,2019-03,Growth Funded by Debt,Mixed
+AXISBANK,Axis Bank Ltd,2024-03,Mixed,Growth Funded by Debt
+BAJAJ-AUTO,Bajaj Auto Ltd,2014-03,Reinvestor,Shareholder Returns
+BAJAJ-AUTO,Bajaj Auto Ltd,2015-03,Shareholder Returns,Reinvestor
+BAJAJ-AUTO,Bajaj Auto Ltd,2018-03,Reinvestor,Shareholder Returns
+BAJAJ-AUTO,Bajaj Auto Ltd,2019-03,Shareholder Returns,Reinvestor
+BAJAJ-AUTO,Bajaj Auto Ltd,2020-03,Reinvestor,Liquidating Assets
+BAJAJ-AUTO,Bajaj Auto Ltd,2021-03,Liquidating Assets,Reinvestor
+BAJAJ-AUTO,Bajaj Auto Ltd,2022-03,Reinvestor,Liquidating Assets
+BAJAJ-AUTO,Bajaj Auto Ltd,2024-03,Liquidating Assets,Reinvestor
+BAJAJFINSV,Bajaj Finserv Ltd,2016-03,Distress Signal,Growth Funded by Debt
+BAJAJFINSV,Bajaj Finserv Ltd,2017-03,Growth Funded by Debt,Distress Signal
+BAJAJFINSV,Bajaj Finserv Ltd,2018-03,Distress Signal,Growth Funded by Debt
+BAJAJFINSV,Bajaj Finserv Ltd,2021-03,Growth Funded by Debt,Mixed
+BAJAJFINSV,Bajaj Finserv Ltd,2022-03,Mixed,Distress Signal
+BAJAJFINSV,Bajaj Finserv Ltd,2023-03,Distress Signal,Growth Funded by Debt
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,2016-03,Reinvestor,Liquidating Assets
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,2017-03,Liquidating Assets,Pre-Revenue
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,2018-03,Pre-Revenue,Reinvestor
+BAJFINANCE,Bajaj Finance Ltd,2018-03,Growth Funded by Debt,Distress Signal
+BAJFINANCE,Bajaj Finance Ltd,2019-03,Distress Signal,Growth Funded by Debt
+BAJFINANCE,Bajaj Finance Ltd,2022-03,Growth Funded by Debt,Distress Signal
+BAJFINANCE,Bajaj Finance Ltd,2023-03,Distress Signal,Growth Funded by Debt
+BANKBARODA,Bank of Baroda,2014-03,Shareholder Returns,Mixed
+BANKBARODA,Bank of Baroda,2015-03,Mixed,Shareholder Returns
+BANKBARODA,Bank of Baroda,2016-03,Shareholder Returns,Pre-Revenue
+BANKBARODA,Bank of Baroda,2017-03,Pre-Revenue,Shareholder Returns
+BANKBARODA,Bank of Baroda,2018-03,Shareholder Returns,Growth Funded by Debt
+BANKBARODA,Bank of Baroda,2020-03,Growth Funded by Debt,Mixed
+BANKBARODA,Bank of Baroda,2021-03,Mixed,Pre-Revenue
+BANKBARODA,Bank of Baroda,2022-03,Pre-Revenue,Reinvestor
+BANKBARODA,Bank of Baroda,2023-03,Reinvestor,Pre-Revenue
+BANKBARODA,Bank of Baroda,2024-03,Pre-Revenue,Growth Funded by Debt
+BEL,Bharat Electronics Ltd,2015-03,Mixed,Shareholder Returns
+BEL,Bharat Electronics Ltd,2017-03,Shareholder Returns,Mixed
+BEL,Bharat Electronics Ltd,2018-03,Mixed,Pre-Revenue
+BEL,Bharat Electronics Ltd,2019-03,Pre-Revenue,Reinvestor
+BEL,Bharat Electronics Ltd,2020-03,Reinvestor,Shareholder Returns
+BEL,Bharat Electronics Ltd,2023-03,Shareholder Returns,Liquidating Assets
+BEL,Bharat Electronics Ltd,2024-03,Liquidating Assets,Shareholder Returns
+BHARTIARTL,Bharti Airtel Ltd,2014-03,Shareholder Returns,Mixed
+BHARTIARTL,Bharti Airtel Ltd,2015-03,Mixed,Shareholder Returns
+BHARTIARTL,Bharti Airtel Ltd,2018-03,Shareholder Returns,Mixed
+BHARTIARTL,Bharti Airtel Ltd,2021-03,Mixed,Reinvestor
+BHARTIARTL,Bharti Airtel Ltd,2022-03,Reinvestor,Shareholder Returns
+BHEL,"Bharat Heavy Electricals Limited
+",2015-03,Mixed,Liquidating Assets
+BHEL,"Bharat Heavy Electricals Limited
+",2017-03,Liquidating Assets,Shareholder Returns
+BHEL,"Bharat Heavy Electricals Limited
+",2018-03,Shareholder Returns,Liquidating Assets
+BHEL,"Bharat Heavy Electricals Limited
+",2019-03,Liquidating Assets,Mixed
+BHEL,"Bharat Heavy Electricals Limited
+",2020-03,Mixed,Distress Signal
+BHEL,"Bharat Heavy Electricals Limited
+",2021-03,Distress Signal,Reinvestor
+BHEL,"Bharat Heavy Electricals Limited
+",2022-03,Reinvestor,Shareholder Returns
+BHEL,"Bharat Heavy Electricals Limited
+",2023-03,Shareholder Returns,Distress Signal
+BOSCHLTD,Bosch Ltd,2013-12,Reinvestor,Shareholder Returns
+BOSCHLTD,Bosch Ltd,2016-03,Shareholder Returns,Reinvestor
+BOSCHLTD,Bosch Ltd,2017-03,Reinvestor,Liquidating Assets
+BOSCHLTD,Bosch Ltd,2018-03,Liquidating Assets,Shareholder Returns
+BOSCHLTD,Bosch Ltd,2019-03,Shareholder Returns,Liquidating Assets
+BOSCHLTD,Bosch Ltd,2020-03,Liquidating Assets,Shareholder Returns
+BOSCHLTD,Bosch Ltd,2022-03,Shareholder Returns,Reinvestor
+BOSCHLTD,Bosch Ltd,2023-03,Reinvestor,Liquidating Assets
+BPCL,Bharat Petroleum Corporation Ltd,2017-03,Shareholder Returns,Mixed
+BPCL,Bharat Petroleum Corporation Ltd,2018-03,Mixed,Shareholder Returns
+BPCL,Bharat Petroleum Corporation Ltd,2019-03,Shareholder Returns,Mixed
+BPCL,Bharat Petroleum Corporation Ltd,2021-03,Mixed,Shareholder Returns
+BRITANNIA,Britannia Industries Ltd,2014-03,Liquidating Assets,Shareholder Returns
+BRITANNIA,Britannia Industries Ltd,2015-03,Shareholder Returns,Reinvestor
+BRITANNIA,Britannia Industries Ltd,2016-03,Reinvestor,Shareholder Returns
+BRITANNIA,Britannia Industries Ltd,2017-03,Shareholder Returns,Reinvestor
+BRITANNIA,Britannia Industries Ltd,2018-03,Reinvestor,Shareholder Returns
+BRITANNIA,Britannia Industries Ltd,2019-03,Shareholder Returns,Reinvestor
+BRITANNIA,Britannia Industries Ltd,2020-03,Reinvestor,Mixed
+BRITANNIA,Britannia Industries Ltd,2021-03,Mixed,Liquidating Assets
+BRITANNIA,Britannia Industries Ltd,2023-03,Liquidating Assets,Shareholder Returns
+BRITANNIA,Britannia Industries Ltd,2024-03,Shareholder Returns,Liquidating Assets
+CANBK,Canara Bank,2016-03,Shareholder Returns,Reinvestor
+CANBK,Canara Bank,2017-03,Reinvestor,Mixed
+CANBK,Canara Bank,2018-03,Mixed,Growth Funded by Debt
+CANBK,Canara Bank,2019-03,Growth Funded by Debt,Shareholder Returns
+CANBK,Canara Bank,2020-03,Shareholder Returns,Growth Funded by Debt
+CANBK,Canara Bank,2021-03,Growth Funded by Debt,Mixed
+CANBK,Canara Bank,2023-03,Mixed,Growth Funded by Debt
+CANBK,Canara Bank,2024-03,Growth Funded by Debt,Reinvestor
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,2014-03,Distress Signal,Growth Funded by Debt
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,2022-03,Growth Funded by Debt,Distress Signal
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,2023-03,Distress Signal,Growth Funded by Debt
+CIPLA,"Cipla Ltd
+",2014-03,Mixed,Shareholder Returns
+CIPLA,"Cipla Ltd
+",2015-03,Shareholder Returns,Mixed
+CIPLA,"Cipla Ltd
+",2017-03,Mixed,Shareholder Returns
+CIPLA,"Cipla Ltd
+",2020-03,Shareholder Returns,Liquidating Assets
+CIPLA,"Cipla Ltd
+",2021-03,Liquidating Assets,Shareholder Returns
+CIPLA,"Cipla Ltd
+",2024-03,Shareholder Returns,Reinvestor
+COALINDIA,Coal India Ltd,2014-03,Reinvestor,Liquidating Assets
+COALINDIA,Coal India Ltd,2018-03,Liquidating Assets,Shareholder Returns
+COALINDIA,Coal India Ltd,2019-03,Shareholder Returns,Reinvestor
+COALINDIA,Coal India Ltd,2020-03,Reinvestor,Liquidating Assets
+COALINDIA,Coal India Ltd,2022-03,Liquidating Assets,Shareholder Returns
+COALINDIA,Coal India Ltd,2024-03,Shareholder Returns,Reinvestor
+DABUR,Dabur India Ltd,2015-03,Shareholder Returns,Reinvestor
+DABUR,Dabur India Ltd,2019-03,Reinvestor,Liquidating Assets
+DABUR,Dabur India Ltd,2020-03,Liquidating Assets,Shareholder Returns
+DABUR,Dabur India Ltd,2023-03,Shareholder Returns,Reinvestor
+DABUR,Dabur India Ltd,2024-03,Reinvestor,Shareholder Returns
+DIVISLAB,Divis Laboratories Ltd,2017-03,Reinvestor,Mixed
+DIVISLAB,Divis Laboratories Ltd,2018-03,Mixed,Reinvestor
+DIVISLAB,Divis Laboratories Ltd,2021-03,Reinvestor,Liquidating Assets
+DIVISLAB,Divis Laboratories Ltd,2022-03,Liquidating Assets,Reinvestor
+DIVISLAB,Divis Laboratories Ltd,2023-03,Reinvestor,Shareholder Returns
+DIVISLAB,Divis Laboratories Ltd,2024-03,Shareholder Returns,Reinvestor
+DLF,DLF Ltd,2016-03,Liquidating Assets,Shareholder Returns
+DLF,DLF Ltd,2017-03,Shareholder Returns,Distress Signal
+DLF,DLF Ltd,2018-03,Distress Signal,Reinvestor
+DLF,DLF Ltd,2019-03,Reinvestor,Cash Accumulator
+DLF,DLF Ltd,2020-03,Cash Accumulator,Liquidating Assets
+DLF,DLF Ltd,2023-03,Liquidating Assets,Shareholder Returns
+DLF,DLF Ltd,2024-03,Shareholder Returns,Mixed
+DMART,Avenue Supermarts Ltd,2018-03,Mixed,Liquidating Assets
+DMART,Avenue Supermarts Ltd,2019-03,Liquidating Assets,Mixed
+DMART,Avenue Supermarts Ltd,2021-03,Mixed,Shareholder Returns
+DMART,Avenue Supermarts Ltd,2022-03,Shareholder Returns,Reinvestor
+DMART,Avenue Supermarts Ltd,2023-03,Reinvestor,Shareholder Returns
+DRREDDY,Dr Reddys Laboratories Ltd,2015-03,Reinvestor,Shareholder Returns
+DRREDDY,Dr Reddys Laboratories Ltd,2024-03,Shareholder Returns,Reinvestor
+EICHERMOT,Eicher Motors Ltd,2017-03,Shareholder Returns,Mixed
+EICHERMOT,Eicher Motors Ltd,2018-03,Mixed,Shareholder Returns
+EICHERMOT,Eicher Motors Ltd,2019-03,Shareholder Returns,Reinvestor
+EICHERMOT,Eicher Motors Ltd,2021-03,Reinvestor,Shareholder Returns
+EICHERMOT,Eicher Motors Ltd,2022-03,Shareholder Returns,Reinvestor
+GAIL,GAIL (India) Ltd,2014-03,Mixed,Reinvestor
+GAIL,GAIL (India) Ltd,2015-03,Reinvestor,Shareholder Returns
+GAIL,GAIL (India) Ltd,2020-03,Shareholder Returns,Mixed
+GAIL,GAIL (India) Ltd,2021-03,Mixed,Shareholder Returns
+GAIL,GAIL (India) Ltd,2022-03,Shareholder Returns,Reinvestor
+GAIL,GAIL (India) Ltd,2023-03,Reinvestor,Mixed
+GAIL,GAIL (India) Ltd,2024-03,Mixed,Shareholder Returns
+GODREJCP,Godrej Consumer Products Ltd,2014-03,Mixed,Shareholder Returns
+GODREJCP,Godrej Consumer Products Ltd,2017-03,Shareholder Returns,Mixed
+GODREJCP,Godrej Consumer Products Ltd,2018-03,Mixed,Shareholder Returns
+GODREJCP,Godrej Consumer Products Ltd,2019-03,Shareholder Returns,Liquidating Assets
+GODREJCP,Godrej Consumer Products Ltd,2020-03,Liquidating Assets,Shareholder Returns
+GODREJCP,Godrej Consumer Products Ltd,2022-03,Shareholder Returns,Reinvestor
+GODREJCP,Godrej Consumer Products Ltd,2023-03,Reinvestor,Shareholder Returns
+GODREJCP,Godrej Consumer Products Ltd,2024-03,Shareholder Returns,Mixed
+GRASIM,Grasim Industries Ltd,2014-03,Mixed,Shareholder Returns
+GRASIM,Grasim Industries Ltd,2018-03,Shareholder Returns,Distress Signal
+GRASIM,Grasim Industries Ltd,2019-03,Distress Signal,Growth Funded by Debt
+GRASIM,Grasim Industries Ltd,2020-03,Growth Funded by Debt,Shareholder Returns
+GRASIM,Grasim Industries Ltd,2022-03,Shareholder Returns,Reinvestor
+GRASIM,Grasim Industries Ltd,2023-03,Reinvestor,Growth Funded by Debt
+HAL,Hindustan Aeronautics Ltd,2019-03,Mixed,Distress Signal
+HAL,Hindustan Aeronautics Ltd,2020-03,Distress Signal,Mixed
+HAL,Hindustan Aeronautics Ltd,2021-03,Mixed,Shareholder Returns
+HAVELLS,Havells India Ltd,2016-03,Shareholder Returns,Reinvestor
+HAVELLS,Havells India Ltd,2017-03,Reinvestor,Shareholder Returns
+HAVELLS,Havells India Ltd,2019-03,Shareholder Returns,Liquidating Assets
+HAVELLS,Havells India Ltd,2020-03,Liquidating Assets,Shareholder Returns
+HAVELLS,Havells India Ltd,2021-03,Shareholder Returns,Mixed
+HAVELLS,Havells India Ltd,2022-03,Mixed,Shareholder Returns
+HAVELLS,Havells India Ltd,2023-03,Shareholder Returns,Liquidating Assets
+HAVELLS,Havells India Ltd,2024-03,Liquidating Assets,Shareholder Returns
+HCLTECH,HCL Technologies Ltd,2014-06,Shareholder Returns,Reinvestor
+HCLTECH,HCL Technologies Ltd,2017-03,Reinvestor,Shareholder Returns
+HCLTECH,HCL Technologies Ltd,2018-03,Shareholder Returns,Reinvestor
+HCLTECH,HCL Technologies Ltd,2020-03,Reinvestor,Shareholder Returns
+HCLTECH,HCL Technologies Ltd,2022-03,Shareholder Returns,Liquidating Assets
+HCLTECH,HCL Technologies Ltd,2023-03,Liquidating Assets,Shareholder Returns
+HDFCBANK,HDFC Bank Ltd,2014-03,Growth Funded by Debt,Mixed
+HDFCBANK,HDFC Bank Ltd,2015-03,Mixed,Growth Funded by Debt
+HDFCBANK,HDFC Bank Ltd,2017-03,Growth Funded by Debt,Shareholder Returns
+HDFCBANK,HDFC Bank Ltd,2018-03,Shareholder Returns,Mixed
+HDFCBANK,HDFC Bank Ltd,2019-03,Mixed,Growth Funded by Debt
+HDFCBANK,HDFC Bank Ltd,2021-03,Growth Funded by Debt,Shareholder Returns
+HDFCBANK,HDFC Bank Ltd,2022-03,Shareholder Returns,Growth Funded by Debt
+HDFCBANK,HDFC Bank Ltd,2023-03,Growth Funded by Debt,Mixed
+HDFCBANK,HDFC Bank Ltd,2024-03,Mixed,Liquidating Assets
+HDFCLIFE,HDFC Life Insurance Company Ltd,2015-03,Pre-Revenue,Shareholder Returns
+HDFCLIFE,HDFC Life Insurance Company Ltd,2020-03,Shareholder Returns,Mixed
+HDFCLIFE,HDFC Life Insurance Company Ltd,2022-03,Mixed,Shareholder Returns
+HDFCLIFE,HDFC Life Insurance Company Ltd,2023-03,Shareholder Returns,Mixed
+HDFCLIFE,HDFC Life Insurance Company Ltd,2024-03,Mixed,Shareholder Returns
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2015-03,Shareholder Returns,Liquidating Assets
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2016-03,Liquidating Assets,Shareholder Returns
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2019-03,Shareholder Returns,Liquidating Assets
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2020-03,Liquidating Assets,Shareholder Returns
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2022-03,Shareholder Returns,Reinvestor
+HEROMOTOCO,"Hero MotoCorp Ltd
+",2024-03,Reinvestor,Shareholder Returns
+HINDALCO,Hindalco Industries Ltd,2015-03,Mixed,Shareholder Returns
+HINDALCO,Hindalco Industries Ltd,2016-03,Shareholder Returns,Reinvestor
+HINDALCO,Hindalco Industries Ltd,2017-03,Reinvestor,Shareholder Returns
+HINDALCO,Hindalco Industries Ltd,2018-03,Shareholder Returns,Liquidating Assets
+HINDALCO,Hindalco Industries Ltd,2019-03,Liquidating Assets,Shareholder Returns
+HINDALCO,Hindalco Industries Ltd,2020-03,Shareholder Returns,Mixed
+HINDALCO,Hindalco Industries Ltd,2021-03,Mixed,Shareholder Returns
+HINDUNILVR,"Hindustan Unilever Ltd
+",2014-03,Liquidating Assets,Reinvestor
+HINDUNILVR,"Hindustan Unilever Ltd
+",2015-03,Reinvestor,Liquidating Assets
+HINDUNILVR,"Hindustan Unilever Ltd
+",2016-03,Liquidating Assets,Reinvestor
+HINDUNILVR,"Hindustan Unilever Ltd
+",2017-03,Reinvestor,Shareholder Returns
+HINDUNILVR,"Hindustan Unilever Ltd
+",2019-03,Shareholder Returns,Reinvestor
+HINDUNILVR,"Hindustan Unilever Ltd
+",2020-03,Reinvestor,Liquidating Assets
+HINDUNILVR,"Hindustan Unilever Ltd
+",2021-03,Liquidating Assets,Shareholder Returns
+HINDUNILVR,"Hindustan Unilever Ltd
+",2023-03,Shareholder Returns,Reinvestor
+HINDUNILVR,"Hindustan Unilever Ltd
+",2024-03,Reinvestor,Shareholder Returns
+ICICIBANK,ICICI Bank Ltd,2015-03,Mixed,Growth Funded by Debt
+ICICIBANK,ICICI Bank Ltd,2016-03,Growth Funded by Debt,Mixed
+ICICIBANK,ICICI Bank Ltd,2017-03,Mixed,Shareholder Returns
+ICICIBANK,ICICI Bank Ltd,2018-03,Shareholder Returns,Mixed
+ICICIBANK,ICICI Bank Ltd,2019-03,Mixed,Shareholder Returns
+ICICIBANK,ICICI Bank Ltd,2020-03,Shareholder Returns,Mixed
+ICICIBANK,ICICI Bank Ltd,2021-03,Mixed,Shareholder Returns
+ICICIBANK,ICICI Bank Ltd,2022-03,Shareholder Returns,Mixed
+ICICIBANK,ICICI Bank Ltd,2023-03,Mixed,Growth Funded by Debt
+ICICIBANK,ICICI Bank Ltd,2024-03,Growth Funded by Debt,Mixed
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2016-03,Mixed,Shareholder Returns
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2017-03,Shareholder Returns,Mixed
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2018-03,Mixed,Shareholder Returns
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2022-03,Shareholder Returns,Liquidating Assets
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2023-03,Liquidating Assets,Shareholder Returns
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2015-03,Mixed,Reinvestor
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2016-03,Reinvestor,Liquidating Assets
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2017-03,Liquidating Assets,Shareholder Returns
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2021-03,Shareholder Returns,Mixed
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2022-03,Mixed,Shareholder Returns
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2023-03,Shareholder Returns,Reinvestor
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2024-03,Reinvestor,Mixed
+INDIGO,Interglobe Aviation Ltd,2015-03,Mixed,Shareholder Returns
+INDIGO,Interglobe Aviation Ltd,2018-03,Shareholder Returns,Mixed
+INDIGO,Interglobe Aviation Ltd,2019-03,Mixed,Shareholder Returns
+INDIGO,Interglobe Aviation Ltd,2020-03,Shareholder Returns,Reinvestor
+INDIGO,Interglobe Aviation Ltd,2021-03,Reinvestor,Mixed
+INDIGO,Interglobe Aviation Ltd,2022-03,Mixed,Liquidating Assets
+INDIGO,Interglobe Aviation Ltd,2023-03,Liquidating Assets,Reinvestor
+INDIGO,Interglobe Aviation Ltd,2024-03,Reinvestor,Shareholder Returns
+INDUSINDBK,IndusInd Bank Ltd,2017-03,Growth Funded by Debt,Shareholder Returns
+INDUSINDBK,IndusInd Bank Ltd,2018-03,Shareholder Returns,Growth Funded by Debt
+INDUSINDBK,IndusInd Bank Ltd,2020-03,Growth Funded by Debt,Distress Signal
+INDUSINDBK,IndusInd Bank Ltd,2021-03,Distress Signal,Shareholder Returns
+INDUSINDBK,IndusInd Bank Ltd,2023-03,Shareholder Returns,Growth Funded by Debt
+INDUSINDBK,IndusInd Bank Ltd,2024-03,Growth Funded by Debt,Pre-Revenue
+INFY,Infosys Ltd,2015-03,Reinvestor,Liquidating Assets
+INFY,Infosys Ltd,2016-03,Liquidating Assets,Reinvestor
+INFY,Infosys Ltd,2018-03,Reinvestor,Liquidating Assets
+INFY,Infosys Ltd,2019-03,Liquidating Assets,Reinvestor
+INFY,Infosys Ltd,2020-03,Reinvestor,Shareholder Returns
+INFY,Infosys Ltd,2023-03,Shareholder Returns,Reinvestor
+IOC,"Indian Oil Corporation
+",2014-03,Mixed,Shareholder Returns
+IOC,"Indian Oil Corporation
+",2019-03,Shareholder Returns,Mixed
+IOC,"Indian Oil Corporation
+",2021-03,Mixed,Shareholder Returns
+IOC,"Indian Oil Corporation
+",2022-03,Shareholder Returns,Reinvestor
+IOC,"Indian Oil Corporation
+",2023-03,Reinvestor,Shareholder Returns
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2016-03,Reinvestor,Liquidating Assets
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2019-03,Liquidating Assets,Shareholder Returns
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2020-03,Shareholder Returns,Liquidating Assets
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2021-03,Liquidating Assets,Shareholder Returns
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2022-03,Shareholder Returns,Reinvestor
+IRFC,Indian Railway Finance Corporation Ltd,2022-03,Distress Signal,Growth Funded by Debt
+IRFC,Indian Railway Finance Corporation Ltd,2023-03,Growth Funded by Debt,Distress Signal
+IRFC,Indian Railway Finance Corporation Ltd,2024-03,Distress Signal,Shareholder Returns
+ITC,"ITC Ltd
+",2015-03,Reinvestor,Shareholder Returns
+ITC,"ITC Ltd
+",2019-03,Shareholder Returns,Reinvestor
+ITC,"ITC Ltd
+",2021-03,Reinvestor,Liquidating Assets
+ITC,"ITC Ltd
+",2022-03,Liquidating Assets,Shareholder Returns
+ITC,"ITC Ltd
+",2023-03,Shareholder Returns,Reinvestor
+ITC,"ITC Ltd
+",2024-03,Reinvestor,Liquidating Assets
+JINDALSTEL,Jindal Steel & Power Ltd,2016-03,Mixed,Reinvestor
+JINDALSTEL,Jindal Steel & Power Ltd,2021-03,Reinvestor,Shareholder Returns
+JINDALSTEL,Jindal Steel & Power Ltd,2024-03,Shareholder Returns,Mixed
+JIOFIN,Jio Financial Services Ltd,2024-03,Shareholder Returns,Mixed
+JSWENERGY,JSW Energy Ltd,2020-03,Shareholder Returns,Liquidating Assets
+JSWENERGY,JSW Energy Ltd,2021-03,Liquidating Assets,Shareholder Returns
+JSWENERGY,JSW Energy Ltd,2023-03,Shareholder Returns,Mixed
+JSWSTEEL,JSW Steel Ltd,2014-03,Shareholder Returns,Mixed
+JSWSTEEL,JSW Steel Ltd,2015-03,Mixed,Shareholder Returns
+JSWSTEEL,JSW Steel Ltd,2016-03,Shareholder Returns,Reinvestor
+JSWSTEEL,JSW Steel Ltd,2017-03,Reinvestor,Shareholder Returns
+JSWSTEEL,JSW Steel Ltd,2019-03,Shareholder Returns,Mixed
+JSWSTEEL,JSW Steel Ltd,2021-03,Mixed,Shareholder Returns
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2014-03,Mixed,Shareholder Returns
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2015-03,Shareholder Returns,Mixed
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2018-03,Mixed,Growth Funded by Debt
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2019-03,Growth Funded by Debt,Mixed
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2020-03,Mixed,Shareholder Returns
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2021-03,Shareholder Returns,Reinvestor
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2022-03,Reinvestor,Mixed
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2023-03,Mixed,Growth Funded by Debt
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",2024-03,Growth Funded by Debt,Mixed
+LICI,Life Insurance Corporation of India,2020-03,Liquidating Assets,Shareholder Returns
+LICI,Life Insurance Corporation of India,2021-03,Shareholder Returns,Liquidating Assets
+LICI,Life Insurance Corporation of India,2022-03,Liquidating Assets,Distress Signal
+LICI,Life Insurance Corporation of India,2023-03,Distress Signal,Shareholder Returns
+LICI,Life Insurance Corporation of India,2024-03,Shareholder Returns,Reinvestor
+LODHA,Macrotech Developers Ltd,2017-03,Mixed,Shareholder Returns
+LODHA,Macrotech Developers Ltd,2018-03,Shareholder Returns,Mixed
+LODHA,Macrotech Developers Ltd,2019-03,Mixed,Growth Funded by Debt
+LODHA,Macrotech Developers Ltd,2020-03,Growth Funded by Debt,Liquidating Assets
+LODHA,Macrotech Developers Ltd,2024-03,Liquidating Assets,Mixed
+LT,Larsen & Toubro Ltd,2017-03,Growth Funded by Debt,Mixed
+LT,Larsen & Toubro Ltd,2018-03,Mixed,Distress Signal
+LT,Larsen & Toubro Ltd,2019-03,Distress Signal,Growth Funded by Debt
+LT,Larsen & Toubro Ltd,2020-03,Growth Funded by Debt,Mixed
+LT,Larsen & Toubro Ltd,2021-03,Mixed,Shareholder Returns
+LT,Larsen & Toubro Ltd,2024-03,Shareholder Returns,Liquidating Assets
+LTIM,LTIMindtree Ltd,2014-03,Shareholder Returns,Liquidating Assets
+LTIM,LTIMindtree Ltd,2015-03,Liquidating Assets,Reinvestor
+LTIM,LTIMindtree Ltd,2016-03,Reinvestor,Shareholder Returns
+LTIM,LTIMindtree Ltd,2018-03,Shareholder Returns,Reinvestor
+LTIM,LTIMindtree Ltd,2020-03,Reinvestor,Shareholder Returns
+LTIM,LTIMindtree Ltd,2022-03,Shareholder Returns,Reinvestor
+LTIM,LTIMindtree Ltd,2024-03,Reinvestor,Shareholder Returns
+M&M,"Mahindra & Mahindra Ltd
+",2015-03,Growth Funded by Debt,Mixed
+M&M,"Mahindra & Mahindra Ltd
+",2019-03,Mixed,Growth Funded by Debt
+M&M,"Mahindra & Mahindra Ltd
+",2021-03,Growth Funded by Debt,Mixed
+M&M,"Mahindra & Mahindra Ltd
+",2022-03,Mixed,Shareholder Returns
+M&M,"Mahindra & Mahindra Ltd
+",2023-03,Shareholder Returns,Growth Funded by Debt
+MARUTI,Maruti Suzuki India Ltd,2019-03,Shareholder Returns,Reinvestor
+MARUTI,Maruti Suzuki India Ltd,2021-03,Reinvestor,Shareholder Returns
+MARUTI,Maruti Suzuki India Ltd,2022-03,Shareholder Returns,Reinvestor
+MARUTI,Maruti Suzuki India Ltd,2023-03,Reinvestor,Shareholder Returns
+MOTHERSON,Samvardhana Motherson International Ltd,2015-03,Shareholder Returns,Mixed
+MOTHERSON,Samvardhana Motherson International Ltd,2016-03,Mixed,Shareholder Returns
+MOTHERSON,Samvardhana Motherson International Ltd,2017-03,Shareholder Returns,Mixed
+MOTHERSON,Samvardhana Motherson International Ltd,2018-03,Mixed,Shareholder Returns
+MOTHERSON,Samvardhana Motherson International Ltd,2024-03,Shareholder Returns,Mixed
+NAUKRI,Info Edge (India) Ltd,2014-03,Reinvestor,Mixed
+NAUKRI,Info Edge (India) Ltd,2016-03,Mixed,Reinvestor
+NAUKRI,Info Edge (India) Ltd,2020-03,Reinvestor,Liquidating Assets
+NAUKRI,Info Edge (India) Ltd,2021-03,Liquidating Assets,Mixed
+NESTLEIND,Nestle India Ltd,2019-12,Shareholder Returns,Liquidating Assets
+NESTLEIND,Nestle India Ltd,2020-12,Liquidating Assets,Shareholder Returns
+NHPC,"NHPC Ltd
+",2014-03,Reinvestor,Shareholder Returns
+NHPC,"NHPC Ltd
+",2020-03,Shareholder Returns,Mixed
+NHPC,"NHPC Ltd
+",2021-03,Mixed,Shareholder Returns
+NTPC,NTPC Ltd,2014-03,Mixed,Shareholder Returns
+NTPC,NTPC Ltd,2017-03,Shareholder Returns,Mixed
+NTPC,NTPC Ltd,2021-03,Mixed,Shareholder Returns
+ONGC,Oil & Natural Gas Corpn Ltd,2014-03,Shareholder Returns,Mixed
+ONGC,Oil & Natural Gas Corpn Ltd,2015-03,Mixed,Shareholder Returns
+ONGC,Oil & Natural Gas Corpn Ltd,2018-03,Shareholder Returns,Mixed
+ONGC,Oil & Natural Gas Corpn Ltd,2019-03,Mixed,Shareholder Returns
+PFC,Power Finance Corporation Ltd,2015-03,Distress Signal,Growth Funded by Debt
+PFC,Power Finance Corporation Ltd,2017-03,Growth Funded by Debt,Mixed
+PFC,Power Finance Corporation Ltd,2018-03,Mixed,Distress Signal
+PFC,Power Finance Corporation Ltd,2019-03,Distress Signal,Growth Funded by Debt
+PFC,Power Finance Corporation Ltd,2021-03,Growth Funded by Debt,Distress Signal
+PFC,Power Finance Corporation Ltd,2022-03,Distress Signal,Reinvestor
+PFC,Power Finance Corporation Ltd,2023-03,Reinvestor,Growth Funded by Debt
+PIDILITIND,Pidilite Industries Ltd,2014-03,Shareholder Returns,Reinvestor
+PIDILITIND,Pidilite Industries Ltd,2015-03,Reinvestor,Shareholder Returns
+PIDILITIND,Pidilite Industries Ltd,2017-03,Shareholder Returns,Mixed
+PIDILITIND,Pidilite Industries Ltd,2018-03,Mixed,Liquidating Assets
+PIDILITIND,Pidilite Industries Ltd,2019-03,Liquidating Assets,Reinvestor
+PIDILITIND,Pidilite Industries Ltd,2020-03,Reinvestor,Liquidating Assets
+PIDILITIND,Pidilite Industries Ltd,2021-03,Liquidating Assets,Shareholder Returns
+PIDILITIND,Pidilite Industries Ltd,2022-03,Shareholder Returns,Reinvestor
+PIDILITIND,Pidilite Industries Ltd,2023-03,Reinvestor,Shareholder Returns
+PNB,Punjab National Bank,2014-03,Pre-Revenue,Mixed
+PNB,Punjab National Bank,2017-03,Mixed,Liquidating Assets
+PNB,Punjab National Bank,2018-03,Liquidating Assets,Distress Signal
+PNB,Punjab National Bank,2019-03,Distress Signal,Growth Funded by Debt
+PNB,Punjab National Bank,2021-03,Growth Funded by Debt,Mixed
+PNB,Punjab National Bank,2024-03,Mixed,Growth Funded by Debt
+POWERGRID,Power Grid Corporation of India Ltd,2019-03,Mixed,Shareholder Returns
+POWERGRID,Power Grid Corporation of India Ltd,2022-03,Shareholder Returns,Liquidating Assets
+POWERGRID,Power Grid Corporation of India Ltd,2023-03,Liquidating Assets,Shareholder Returns
+RECLTD,REC Ltd,2016-03,Distress Signal,Growth Funded by Debt
+RECLTD,REC Ltd,2017-03,Growth Funded by Debt,Shareholder Returns
+RECLTD,REC Ltd,2018-03,Shareholder Returns,Distress Signal
+RECLTD,REC Ltd,2022-03,Distress Signal,Growth Funded by Debt
+RELIANCE,"Reliance Industries Ltd
+",2016-03,Mixed,Shareholder Returns
+RELIANCE,"Reliance Industries Ltd
+",2017-03,Shareholder Returns,Mixed
+RELIANCE,"Reliance Industries Ltd
+",2018-03,Mixed,Shareholder Returns
+RELIANCE,"Reliance Industries Ltd
+",2019-03,Shareholder Returns,Mixed
+RELIANCE,"Reliance Industries Ltd
+",2020-03,Mixed,Shareholder Returns
+RELIANCE,"Reliance Industries Ltd
+",2021-03,Shareholder Returns,Mixed
+RELIANCE,"Reliance Industries Ltd
+",2024-03,Mixed,Shareholder Returns
+SBILIFE,SBI Life Insurance Company Ltd,2014-03,Shareholder Returns,Reinvestor
+SBILIFE,SBI Life Insurance Company Ltd,2015-03,Reinvestor,Shareholder Returns
+SBILIFE,SBI Life Insurance Company Ltd,2021-03,Shareholder Returns,Mixed
+SBILIFE,SBI Life Insurance Company Ltd,2022-03,Mixed,Shareholder Returns
+SBIN,State Bank of India,2014-03,Reinvestor,Mixed
+SBIN,State Bank of India,2015-03,Mixed,Reinvestor
+SBIN,State Bank of India,2016-03,Reinvestor,Mixed
+SBIN,State Bank of India,2017-03,Mixed,Reinvestor
+SBIN,State Bank of India,2018-03,Reinvestor,Distress Signal
+SBIN,State Bank of India,2019-03,Distress Signal,Cash Accumulator
+SBIN,State Bank of India,2020-03,Cash Accumulator,Mixed
+SBIN,State Bank of India,2022-03,Mixed,Reinvestor
+SBIN,State Bank of India,2023-03,Reinvestor,Growth Funded by Debt
+SBIN,State Bank of India,2024-03,Growth Funded by Debt,Reinvestor
+SHREECEM,Shree Cement Ltd,2018-03,Shareholder Returns,Mixed
+SHREECEM,Shree Cement Ltd,2019-03,Mixed,Shareholder Returns
+SHREECEM,Shree Cement Ltd,2020-03,Shareholder Returns,Mixed
+SHREECEM,Shree Cement Ltd,2021-03,Mixed,Shareholder Returns
+SHRIRAMFIN,"Shriram Finance Ltd
+",2018-03,Growth Funded by Debt,Distress Signal
+SHRIRAMFIN,"Shriram Finance Ltd
+",2019-03,Distress Signal,Growth Funded by Debt
+SHRIRAMFIN,"Shriram Finance Ltd
+",2023-03,Growth Funded by Debt,Distress Signal
+SHRIRAMFIN,"Shriram Finance Ltd
+",2024-03,Distress Signal,Growth Funded by Debt
+SIEMENS,Siemens Ltd,2018-09,Liquidating Assets,Reinvestor
+SIEMENS,Siemens Ltd,2019-09,Reinvestor,Shareholder Returns
+SIEMENS,Siemens Ltd,2020-09,Shareholder Returns,Liquidating Assets
+SIEMENS,Siemens Ltd,2021-09,Liquidating Assets,Shareholder Returns
+SIEMENS,Siemens Ltd,2022-09,Shareholder Returns,Reinvestor
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2014-03,Reinvestor,Mixed
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2015-03,Mixed,Shareholder Returns
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2017-03,Shareholder Returns,Reinvestor
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2018-03,Reinvestor,Shareholder Returns
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2019-03,Shareholder Returns,Reinvestor
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2020-03,Reinvestor,Shareholder Returns
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2021-03,Shareholder Returns,Liquidating Assets
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2022-03,Liquidating Assets,Shareholder Returns
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2023-03,Shareholder Returns,Mixed
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2024-03,Mixed,Shareholder Returns
+TATACONSUM,Tata Consumer Products Ltd,2014-03,Cash Accumulator,Reinvestor
+TATACONSUM,Tata Consumer Products Ltd,2015-03,Reinvestor,Shareholder Returns
+TATACONSUM,Tata Consumer Products Ltd,2016-03,Shareholder Returns,Liquidating Assets
+TATACONSUM,Tata Consumer Products Ltd,2018-03,Liquidating Assets,Reinvestor
+TATACONSUM,Tata Consumer Products Ltd,2019-03,Reinvestor,Liquidating Assets
+TATACONSUM,Tata Consumer Products Ltd,2020-03,Liquidating Assets,Shareholder Returns
+TATACONSUM,Tata Consumer Products Ltd,2024-03,Shareholder Returns,Mixed
+TATAMOTORS,Tata Motors Ltd,2015-03,Shareholder Returns,Mixed
+TATAMOTORS,Tata Motors Ltd,2016-03,Mixed,Shareholder Returns
+TATAMOTORS,Tata Motors Ltd,2017-03,Shareholder Returns,Mixed
+TATAMOTORS,Tata Motors Ltd,2022-03,Mixed,Reinvestor
+TATAMOTORS,Tata Motors Ltd,2023-03,Reinvestor,Shareholder Returns
+TATAPOWER,"Tata Power Company Ltd
+",2017-03,Shareholder Returns,Mixed
+TATAPOWER,"Tata Power Company Ltd
+",2018-03,Mixed,Shareholder Returns
+TATAPOWER,"Tata Power Company Ltd
+",2021-03,Shareholder Returns,Liquidating Assets
+TATAPOWER,"Tata Power Company Ltd
+",2022-03,Liquidating Assets,Shareholder Returns
+TATAPOWER,"Tata Power Company Ltd
+",2023-03,Shareholder Returns,Mixed
+TATAPOWER,"Tata Power Company Ltd
+",2024-03,Mixed,Shareholder Returns
+TATASTEEL,"Tata Steel Ltd
+",2014-03,Reinvestor,Mixed
+TATASTEEL,"Tata Steel Ltd
+",2015-03,Mixed,Reinvestor
+TATASTEEL,"Tata Steel Ltd
+",2018-03,Reinvestor,Mixed
+TATASTEEL,"Tata Steel Ltd
+",2019-03,Mixed,Shareholder Returns
+TATASTEEL,"Tata Steel Ltd
+",2024-03,Shareholder Returns,Reinvestor
+TCS,Tata Consultancy Services Ltd,2018-03,Reinvestor,Liquidating Assets
+TCS,Tata Consultancy Services Ltd,2021-03,Liquidating Assets,Shareholder Returns
+TCS,Tata Consultancy Services Ltd,2023-03,Shareholder Returns,Liquidating Assets
+TECHM,Tech Mahindra Ltd,2014-03,Mixed,Liquidating Assets
+TECHM,Tech Mahindra Ltd,2015-03,Liquidating Assets,Reinvestor
+TECHM,Tech Mahindra Ltd,2016-03,Reinvestor,Shareholder Returns
+TECHM,Tech Mahindra Ltd,2018-03,Shareholder Returns,Reinvestor
+TECHM,Tech Mahindra Ltd,2019-03,Reinvestor,Shareholder Returns
+TECHM,Tech Mahindra Ltd,2020-03,Shareholder Returns,Liquidating Assets
+TECHM,Tech Mahindra Ltd,2021-03,Liquidating Assets,Shareholder Returns
+TECHM,Tech Mahindra Ltd,2022-03,Shareholder Returns,Liquidating Assets
+TECHM,Tech Mahindra Ltd,2023-03,Liquidating Assets,Shareholder Returns
+TITAN,"Titan Company Ltd
+",2014-03,Reinvestor,Growth Funded by Debt
+TITAN,"Titan Company Ltd
+",2015-03,Growth Funded by Debt,Reinvestor
+TITAN,"Titan Company Ltd
+",2017-03,Reinvestor,Shareholder Returns
+TITAN,"Titan Company Ltd
+",2018-03,Shareholder Returns,Mixed
+TITAN,"Titan Company Ltd
+",2019-03,Mixed,Reinvestor
+TITAN,"Titan Company Ltd
+",2020-03,Reinvestor,Mixed
+TITAN,"Titan Company Ltd
+",2021-03,Mixed,Shareholder Returns
+TITAN,"Titan Company Ltd
+",2022-03,Shareholder Returns,Mixed
+TITAN,"Titan Company Ltd
+",2024-03,Mixed,Reinvestor
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2016-03,Mixed,Shareholder Returns
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2018-03,Shareholder Returns,Mixed
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2019-03,Mixed,Shareholder Returns
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2020-03,Shareholder Returns,Liquidating Assets
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2021-03,Liquidating Assets,Shareholder Returns
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2023-03,Shareholder Returns,Mixed
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2024-03,Mixed,Shareholder Returns
+TRENT,Trent Ltd,2014-03,Mixed,Pre-Revenue
+TRENT,Trent Ltd,2015-03,Pre-Revenue,Growth Funded by Debt
+TRENT,Trent Ltd,2016-03,Growth Funded by Debt,Shareholder Returns
+TRENT,Trent Ltd,2018-03,Shareholder Returns,Reinvestor
+TRENT,Trent Ltd,2019-03,Reinvestor,Mixed
+TRENT,Trent Ltd,2021-03,Mixed,Liquidating Assets
+TRENT,Trent Ltd,2023-03,Liquidating Assets,Shareholder Returns
+TRENT,Trent Ltd,2024-03,Shareholder Returns,Reinvestor
+TVSMOTOR,TVS Motor Company Ltd,2015-03,Shareholder Returns,Mixed
+TVSMOTOR,TVS Motor Company Ltd,2016-03,Mixed,Shareholder Returns
+TVSMOTOR,TVS Motor Company Ltd,2018-03,Shareholder Returns,Mixed
+TVSMOTOR,TVS Motor Company Ltd,2019-03,Mixed,Growth Funded by Debt
+TVSMOTOR,TVS Motor Company Ltd,2020-03,Growth Funded by Debt,Mixed
+TVSMOTOR,TVS Motor Company Ltd,2022-03,Mixed,Growth Funded by Debt

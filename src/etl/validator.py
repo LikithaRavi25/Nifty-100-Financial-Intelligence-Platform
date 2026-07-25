@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-from etl.rules import (
+from src.etl.rules import (
     check_company_id_not_null,
     check_duplicate_company_year,
     check_sales_positive,

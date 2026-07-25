@@ -1,0 +1,2 @@
+company_id,error
+PNB,unsupported format string passed to NoneType.__format__
